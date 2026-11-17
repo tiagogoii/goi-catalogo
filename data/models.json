@@ -1,0 +1,3792 @@
+[
+ {
+  "slug": "wave-110s",
+  "name": "WAVE 110S",
+  "segment": "Cub",
+  "tagline": "Una decisión inteligente",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910b6be64ed.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "FRENO A TAMBOR",
+    "price": 3529700,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/68911efed7ef9.webp"
+   },
+   {
+    "name": "FRENO A DISCO",
+    "price": 4020800,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/68911f0f0f1fb.webp"
+   }
+  ],
+  "specs": [],
+  "features": [
+   {
+    "section": "MOTOR",
+    "heading": "EFICIENCIA Y MENOS MANTENIMIENTO",
+    "text": "Su motor 110cc refrigerado por aire te ofrece un andar suave y confortable, sumado a su bajo consumo de combustible.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32c67139c.webp"
+   },
+   {
+    "section": "DISEÑO",
+    "heading": "ESTÉTICA RENOVADA",
+    "text": "Renovada por completo, sus líneas aerodinámicas proyectan un estilo más deportivo y moderno.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32aea1f73.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "WAVE CAST DISC",
+    "text": "Wave Cast Disc es la versión con freno delantero a disco, que además incorpora llantas de aleación.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32e46dafd.webp"
+   },
+   {
+    "section": "TRANSMISIÓN",
+    "heading": "FÁCIL DE MANEJAR",
+    "text": "Su bajo peso y su transmisión semi-automática de 4 velocidades la convierten en la opción ideal para moverte por la ciudad todos los días.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a33303557c.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ARRANQUE ELÉCTRICO",
+    "text": "Además del arranque a patada, incorpora el nuevo arranque eléctrico, una opción más fácil y rápida para encender tu Wave.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68378cdbc2763.webp"
+   },
+   {
+    "section": "CONFIABILIDAD",
+    "heading": "PARA TODA LA VIDA",
+    "text": "Modelo insignia del segmento CUB de Honda, la Wave 110S se caracteriza por su durabilidad y una inigualable vida útil.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a334fc3ea2.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#616161",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/68911efed7ef9.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/68911f0f0f1fb.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32c67139c.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32aea1f73.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a32e46dafd.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a33303557c.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68378cdbc2763.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a334fc3ea2.webp"
+  ],
+  "spec_pdf_url": "",
+  "source_url": "https://motos.honda.com.ar/modelos/wave-110s",
+  "sort_order": 0
+ },
+ {
+  "slug": "biz-110",
+  "name": "BIZ 110",
+  "segment": "Cub",
+  "tagline": "Todo el mundo pide Biz",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6aa48bd899583.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 4006500,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa0845779d8e.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "1.892 mm largo x 715 mm ancho x 1.081 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.258 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "750 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "99 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "109 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.0:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Inyección electronica (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "5 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 4 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 220mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor de 130mm, CBS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 89 mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Doble amortiguador hidráulico, 86 mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "60/100/17"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "80/100/14"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO URBANO BIZ",
+    "text": "Diseño moderno y funcional, pensado para acompañarte en cada recorrido.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07d97f2657.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "FRENOS EN EL MANILLAR",
+    "text": "Mayor control y practicidad al frenar, con ambos comandos al alcance de tus manos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07e74934b4.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "USB-C",
+    "text": "Mantené tus dispositivos cargados mientras te desplazás.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07fb7c8198.webp"
+   },
+   {
+    "section": "PRACTICIDAD",
+    "heading": "BAÚL BAJO ASIENTO",
+    "text": "Espacio pensado para guardar y transportar lo que necesitás todos los días.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa081938ec5f.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "INYECCIÓN ELECTRONICA",
+    "text": "Arranque confiable, respuesta suave y mayor eficiencia en cada recorrido.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa0829e6db90.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#090fb3",
+   "#616161",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa0845779d8e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07d97f2657.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07e74934b4.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa07fb7c8198.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa081938ec5f.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa0829e6db90.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20Tecnica%20Biz%20110.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/biz-110",
+  "sort_order": 1
+ },
+ {
+  "slug": "navi",
+  "name": "NAVI",
+  "segment": "Fun",
+  "tagline": "Le pasa el trap a todas",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910b83e6d60.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 3434700,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/68911fe545d09.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "1.808 mm largo x 748 mm ancho x 1.039 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.286 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "762 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "104 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "109 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Carburador"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico y a patada"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "3.5 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Automática, tipo V-Matic"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Tambor de 130 mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor de 130 mm, CBS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 89 mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Mono-amortiguador, 70 mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-12"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "90/100-10"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO ÚNICO",
+    "text": "No es una moto, no es una scooter… ¡es una NAVi! Con un diseño inconfundible, la nueva Honda NAVi llegó para cambiarlo todo, a través de una propuesta de movilidad única, práctica y divertida.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6822440085888.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "CONFIABLE, ECONÓMICA Y DIVERTIDA",
+    "text": "El motor de la nueva Honda NAVi es de 109 cc, está refrigerado por aire y se asocia a una transmisión automática CVT. ¿El resultado? Un combo mecánico confiable y eficiente. Y una experiencia de manejo divertidísima por la ausencia de cambios y de embrague.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68224472aa8be.webp"
+   },
+   {
+    "section": "PRACTICIDAD",
+    "heading": "COMPACTA Y LIVIANA",
+    "text": "1.808 milímetros de largo, 748 milímetros de ancho, 1.039 milímetros de alto y 104 kilos de peso en orden de marcha. Números que hacen de la nueva Honda NAVi una moto fácil de manejar, de maniobrar y de estacionar.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6822449acda6c.webp"
+   },
+   {
+    "section": "PERSONALIZACIÓN",
+    "heading": "HACÉ TU NAVI ÚNICA",
+    "text": "Gracias a las diversas opciones de personalización, siempre se puede ser hacer un poco más única a tu NAVi. ¿Cuál es tu estilo? ¿Deportivo? ¿Aventurero? ¡Los diferentes kits de accesorios se adaptan a cualquiera!",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68224aa1050af.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "CBS – COMBINED BRAKING SYSTEM",
+    "text": "La nueva Honda NAVi equipa frenos a tambor de 130 milímetros en ambas ruedas, que junto al sistema de frenado combinado (CBS), ofrecen una excelente respuesta en las detenciones.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682247b46814d.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT CITADINO",
+    "text": "La horquilla telescópica delantera de 89 milímetros de recorrido brinda una suspensión suave y precisa, ideal para absorber las irregularidades del camino y ofrecer una conducción cómoda en entornos urbanos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682247ef76c1b.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#ffffff",
+   "#247a05",
+   "#ff00ae"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/68911fe545d09.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6822440085888.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68224472aa8be.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6822449acda6c.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68224aa1050af.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682247b46814d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682247ef76c1b.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20HONDA%20NAVI%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/navi",
+  "sort_order": 2
+ },
+ {
+  "slug": "glh-150",
+  "name": "GLH 150",
+  "segment": "Business",
+  "tagline": "Más gaucha que nunca",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910b9e0b8cc.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 4737600,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6891212f9d7f3.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.038 mm largo x 771 mm ancho x 1.077 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.303 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "757 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "129 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "149 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Inyección Electrónica"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "12.7 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 240 mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor de 130 mm, CBS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescopica, 107 mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Doble amortiguador hidráulico, 91mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "80/100-18 Tubeless"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "90/90-18 Tubeless"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "RENOVACIÓN TOTAL",
+    "text": "La GLH 150 se renueva con carenados más vistosos y agresivos, además de detalles en color negro que aportan deportividad y sofisticación, sin sacrificar su ergonomía: la posición de manejo relajada, junto con un centro de gravedad bajo, la convierten en una motocicleta extremadamente confortable para el día a día.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68273466480c5.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "INYECCIÓN ELECTRÓNICA",
+    "text": "Asociado a una transmisión de 5 marchas, el motor de 149cc entrega la potencia y el torque justos para los desplazamientos diarios en la ciudad. Además, está alimentado por inyección electrónica, única en su categoría, lo que lo hace altamente eficiente en términos de consumo de combustible y emisiones, y maximiza la sensación de suavidad al andar.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827348a5d7da.webp"
+   },
+   {
+    "section": "AUTONOMÍA",
+    "heading": "MAYOR CAPACIDAD DEL TANQUE",
+    "text": "La capacidad del tanque de combustible de la nueva GLH 150 es mayor que la generación anterior, aumentando de 10.2L a 12.5L. Combinado con el sistema de inyección programada de combustible (PGM-FI), logra una autonomía imbatible en su segmento. El diseño del tanque también fue actualizado en línea con los nuevos carenados.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682734ad32638.webp"
+   },
+   {
+    "section": "SOPORTE DE CARGA",
+    "heading": "PARA LLEVAR TODO LO QUE NECESITES",
+    "text": "La GLH 150 cuenta con un soporte de carga renovado, pintado en color negro para transmitir deportividad y pensado para cargar y transportar objetos con facilidad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6847306b7e790.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "CBS – COMBINED BRAKING SYSTEM",
+    "text": "El disco de freno delantero de 240mm de diámetro ahora está accionado por una pinza Nissin de dos pistones. Además, el nuevo sistema de frenos combinados (CBS), al distribuir el frenado en ambas ruedas, permite que las detenciones sean mucho más seguras.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827352b2e221.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT CITADINO",
+    "text": "La horquilla telescópica delantera de 107mm de recorrido, junto al doble amortiguador trasero con ajuste de precarga, conforman un esquema de suspensión ideal para los trayectos diarios en la ciudad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827355e2e19f.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#616161"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6891212f9d7f3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68273466480c5.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827348a5d7da.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682734ad32638.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6847306b7e790.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827352b2e221.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827355e2e19f.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20GLH%20150%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/glh-150",
+  "sort_order": 3
+ },
+ {
+  "slug": "elite-125",
+  "name": "ELITE 125",
+  "segment": "Scooter",
+  "tagline": "Se mueve con vos",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910bf7ecab8.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6835e8b39fd47.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 5294700,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6891215b2cfe3.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "1.830 mm largo x 707 mm ancho x 1.172 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.260 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "765 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "104 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "124 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.0:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "5.3 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Automática, tipo V-matic"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 190mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor de 130mm, CBS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 80mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Mono-amortiguador, 70mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-12 Tubeless"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "90/100-10 Tubeless"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESPÍRITU ELITE",
+    "text": "La Elite 125 se renueva con carenados completamente nuevos que preservan su espíritu deportivo característico.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827809890ddc.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO Y EFICIENCIA",
+    "text": "El nuevo motor de 123,9cc con tecnología eSP (enhanced Smart Power) está alimentado por inyección electrónica y se combina con una transmisión automática V-Matic que entrega una sensación de manejo agradable.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827872af0e19.webp"
+   },
+   {
+    "section": "FUNCIONALIDAD",
+    "heading": "ESPACIO DEBAJO DEL ASIENTO",
+    "text": "El espacio debajo del asiento cuenta con 19,7L de capacidad, permitiéndote guardar tu casco o llevar lo que quieras.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827888309a02.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "SISTEMA IDLE STOP",
+    "text": "La nueva Elite 125 incorpora el sistema Idle Stop, que apaga el motor en paradas breves para reducir al máximo las emisiones y el consumo de combustible. El mismo es activable o desactivable desde el manillar.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682789cb953b4.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT PARA EL DÍA A DÍA",
+    "text": "Conformado por una horquilla telescópica delantera de 80mm de recorrido y un mono-amortiguador trasero de 70mm de recorrido, el esquema de suspensión proporciona confort y estabilidad en los trayectos citadinos del día a día.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68278ae683106.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "CBS - COMBINED BRAKING SYSTEM",
+    "text": "La nueva Elite 125 no solo cuenta con freno delantero a disco de 190mm, sino también con sistema de frenado combinado (CBS), lo que se traduce en un frenado eficiente.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68473258ed02a.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#090fb3",
+   "#616161"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6891215b2cfe3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827809890ddc.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827872af0e19.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827888309a02.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682789cb953b4.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68278ae683106.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68473258ed02a.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20ELITE%20125%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/elite-125",
+  "sort_order": 4
+ },
+ {
+  "slug": "pcx-160",
+  "name": "PCX 160",
+  "segment": "Scooter",
+  "tagline": "Diseñada a tu medida",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910c4225544.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6a270d312346b.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "PCX 160",
+    "price": 9437000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a2825095e933.webp"
+   },
+   {
+    "name": "PCX 160 DELUXE",
+    "price": 9720100,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a28255f655f3.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "1.935 mm largo x 742 mm ancho x 1.108 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.313 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "764 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "133 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 4 válvulas, monocilíndrico, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "157 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "12.0:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Encendido",
+    "value": "ECU - Totalmente transistorizado"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "8 Litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Automática, tipo V-Matic"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 220mm, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica Showa, 89mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Doble amortiguador hidráulico Showa, 95mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/70-14 (Tubeless)"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "130/70-13 (Tubeless)"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "COMODIDAD PARA TU DÍA A DÍA",
+    "text": "Con líneas más llamativas y un estilo más moderno, la evolución del modelo PCX presenta un diseño elegante que la destaca en su segmento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44503b752.webp"
+   },
+   {
+    "section": "CONFORT",
+    "heading": "ESPACIO PARA TODO LO QUE NECESITÁS",
+    "text": "Con una capacidad de 30 litros, el portaobjetos brinda ahora más espacio para guardar todo lo que necesites.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44655c279.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "TECNOLOGÍA PARA FACILITAR TU MOVILIDAD",
+    "text": "El exclusivo y altamente eficiente sistema de luces FULL LED garantiza una mayor iluminación y visibilidad para tus trayectos nocturnos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44bf9843b.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "MANEJO SEGURO",
+    "text": "La nueva PCX 160 cuenta ahora con sistema de frenado ABS, para evitar bloqueos en la rueda delantera.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827997923289.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO Y EFICIENCIA",
+    "text": "La nueva PCX 160 cuenta ahora con un nuevo motor de 157 cm3, de mejor rendimiento y eficiencia de combustible. Está asociado a una transmisión automática que garantiza un manejo agradable y suave.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a463302702.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#090fb3",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a2825095e933.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a28255f655f3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44503b752.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44655c279.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a44bf9843b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827997923289.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a463302702.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20PCX%20160%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/pcx-160",
+  "sort_order": 5
+ },
+ {
+  "slug": "xr150l",
+  "name": "XR150L",
+  "segment": "On-Off",
+  "tagline": "La ciudad tiene su lado off",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910cb74a709.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/68386782a6864.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 6051500,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689121b3c4eed.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.098 mm largo x 813 mm ancho x 1.129 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.363 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "834 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "131 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "149 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Carburador"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico y a patada"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "12 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 240mm, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor de 110mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 160mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock, 149mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-19"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "110/90-17"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "CREADA PARA ACOMPAÑARTE EN CADA AVENTURA",
+    "text": "El diseño renovado de la XR150L combina resistencia y estilo para que disfrutes de cada recorrido, sin importar el terreno. Pensada para acompañarte en cada aventura, ofrece la versatilidad que necesitás en una moto doble propósito.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68386891bf287.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "RENDIMIENTO CONFIABLE PARA CUALQUIER DESAFÍO",
+    "text": "El confiable motor de 149cc, alimentado por carburador, junto a su transmisión de 5 velocidades ofrecen potencia y precisión. Suavidad en la ciudad, firmeza en terrenos exigentes y la confiabilidad de Honda en cada marcha.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/684748f28fbc9.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "INFORMACIÓN CLARA PARA UNA CONDUCCIÓN PRECISA",
+    "text": "El nuevo tablero digital ofrece una lectura rápida y precisa de la información esencial, optimizando la experiencia de conducción. Su diseño moderno y funcional mejora la visibilidad en cualquier condición.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683870e5509d5.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "LISTA PARA CUALQUIER TERRENO",
+    "text": "La horquilla telescópica delantera está diseñada para absorber las irregularidades del terreno, brindando una conducción suave y cómoda. Aporta estabilidad y control en todo tipo de caminos sin comprometer el rendimiento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683871b7b6f13.webp"
+   },
+   {
+    "section": "SOPORTE DE CARGA",
+    "heading": "PRÁCTICO Y RESISTENTE PARA TU DÍA A DÍA",
+    "text": "El soporte trasero ofrece practicidad y seguridad para transportar objetos en cualquier trayecto. Su diseño resistente lo hace ideal tanto para el uso citadino como para aventuras fueras de la ciudad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6838724a68030.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689121b3c4eed.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68386891bf287.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/684748f28fbc9.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683870e5509d5.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683871b7b6f13.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6838724a68030.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20XR%20150%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/xr150l",
+  "sort_order": 6
+ },
+ {
+  "slug": "xr190l",
+  "name": "XR190L",
+  "segment": "On-Off",
+  "tagline": "Dale a tu vida un giro de 190",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910cd4ed57d.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/683625042932c.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 7033500,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6891219a8694e.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.082 mm largo x 812 mm ancho x 1.126 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.357 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "835 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "135 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "184 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Inyección electrónica"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico y a patada"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "12 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 240mm, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 162mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock, 147mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-19"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "110/90-17"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "NUEVO ESTILO, MISMA ESENCIA TODO TERRENO",
+    "text": "La XR190L presenta un nuevo diseño, inspirado en la XR300L Tornado. Es la compañera ideal para quienes buscan explorar sin límites. Este diseño renovado equilibra resistencia y agilidad, brindando la versatilidad necesaria para superar cualquier desafío con confianza.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839cd2f3a064.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "EFICIENCIA Y RESPUESTA CON INYECCIÓN ELECTRÓNICA",
+    "text": "El motor de 190cc, combinado con una transmisión de 5 velocidades, brinda una respuesta ágil y precisa en todo tipo de terreno. Gracias a la inyección electrónica PGM-FI, el motor optimiza el consumo de combustible y mejora su rendimiento, asegurando eficiencia y potencia en cada trayecto.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839ce116ab6c.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "CONTROL EN CADA FRENADA",
+    "text": "La nueva XR190L incorpora sistema ABS en el eje delantero, mejorando la estabilidad y el control al frenar en terrenos exigentes. Desarrollado por Nissin, este sistema garantiza una respuesta más segura y precisa ante frenadas de emergencia.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839ce9753076.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED PARA MÁS SEGURIDAD",
+    "text": "La XR190L ahora cuenta con iluminación Full LED en faros y luces de giro, ofreciendo mayor visibilidad y seguridad en cualquier condición. Inspirado en la XR300L, su diseño moderno no solo mejora la estética, sino que también incrementa la eficiencia lumínica, permitiendo al piloto ver y ser visto con mayor claridad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839cf5ff2a29.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "PRECISIÓN Y CONFORT AL CONDUCIR",
+    "text": "La horquilla telescópica delantera garantiza estabilidad y control en todo tipo de caminos. Diseñada para absorber las irregularidades del terreno, brinda una conducción suave sin comprometer el rendimiento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6847503f36608.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#ffffff",
+   "#ddcd78"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6891219a8694e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839cd2f3a064.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839ce116ab6c.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839ce9753076.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6839cf5ff2a29.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6847503f36608.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20XR%20190%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/xr190l",
+  "sort_order": 7
+ },
+ {
+  "slug": "xr300l-tornado",
+  "name": "XR300L TORNADO",
+  "segment": "On-Off",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910ceb5f0f9.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6afb463f86c50.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "XR300L TORNADO",
+    "price": 10954000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689120851b869.webp"
+   },
+   {
+    "name": "XR300L TORNADO Rally",
+    "price": 11392100,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a2195141df78.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.202 mm largo x 828 mm ancho x 1.298 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.429 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "890 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "153 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 4 válvulas, monocilíndrico, OHC y refrigerado por aire y aceite"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "294 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.3:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "13.8 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 256mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica Showa, 221mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 227mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "120/80-18"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "NUEVO DISEÑO, MISMA ESENCIA",
+    "text": "La nueva XR300L Tornado presenta un diseño completamente renovado al mismo tiempo que mantiene la esencia de la generación anterior: una motocicleta multipropósito aventurera, lista tanto para los desplazamientos diarios como para las travesías fuera del pavimento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b58acff09.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "COMBINACIÓN PERFECTA ENTRE AGILIDAD Y CONFORT",
+    "text": "El nuevo motor monocilíndrico de 293,5 cc, de mayor rendimiento, ahora está alimentado por inyección electrónica, lo que incrementa también la eficiencia de combustible. La fricción reducida entre sus componentes evita las vibraciones, permitiéndole ser un motor suave en su funcionamiento, con buena entrega a bajo y medio régimen, ideal para el manejo cotidiano pero también para el manejo off-road.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b5a9154b7.webp"
+   },
+   {
+    "section": "TRANSMISIÓN",
+    "heading": "RELACIONAMIENTO Y ENGRANAJE PRECISOS",
+    "text": "La transmisión por cadena de 6 velocidades permite explotar al máximo el potencial del nuevo motor. El embrague ahora es asistido e incorpora la función anti-rebote. Además, el tensor de la cadena es más fácil de operar y su ajuste es más preciso.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b5d53ef8f.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT Y ESTABILIDAD",
+    "text": "Fabricadas con componentes Showa de alta calidad y durabilidad, las horquillas delanteras de 221 mm de recorrido y el monoshock trasero Pro-Link ajustable en 7 posiciones otorgan confort y estabilidad en las más variadas condiciones de conducción.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b6a56ecb9.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "EFICIENCIA Y SEGURIDAD",
+    "text": "Tanto el disco de freno delantero (256mm) como el disco trasero (220mm) son accionados por pinzas Nissin, que actúan con eficiencia y precisión al momento de frenar. El ABS de doble canal garantiza la máxima seguridad en el frenado, impidiendo el bloqueo de las ruedas.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b67029128.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "La nueva XR300L Tornado incorpora iluminación Full LED tanto en el sector delantero como en el posterior. Esto no solo garantiza una excelente visibilidad, sino que contribuye a la seguridad, al permitirle al piloto ver y ser visto. Además, el nuevo diseño de las luces y de los carenados que las rodean, sumado a la tecnología LED, refuerzan el look aventurero y sofisticado de la motocicleta.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b6d668e52.webp"
+   },
+   {
+    "section": "TANQUE DE COMBUSTIBLE",
+    "heading": "TANQUE DE COMBUSTIBLE",
+    "text": "El tanque ofrece una excelente autonomía gracias a sus 13,8L de capacidad. Los carenados que lo rodean realzan el aspecto robusto de la nueva XR300L Tornado.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b7104b4b7.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#616161",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689120851b869.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a2195141df78.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b58acff09.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b5a9154b7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b5d53ef8f.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b6a56ecb9.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b67029128.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b6d668e52.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6827b7104b4b7.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20XR%20300L%20TORNADO%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/xr300l-tornado",
+  "sort_order": 8
+ },
+ {
+  "slug": "crf250r",
+  "name": "CRF250R",
+  "segment": "Off-Road",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6a95a97940c65.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/696a520460b88.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a95a9e9696f7.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.179 mm largo x 827 mm ancho x 1.262 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.483 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "955 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "107 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, monocilíndrico, DOHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "249,4 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "13.9:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "6.3 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 260mm, pinza Nissin de doble pistón"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 310mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 308mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "80/100-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "100/90-19"
+   },
+   {
+    "label": "EMSB (Engine Mode Select Button)",
+    "value": "Sí"
+   },
+   {
+    "label": "HRC LC (Honda Racing Corporation Launch Control)",
+    "value": "Sí"
+   },
+   {
+    "label": "HSTC",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "IDENTIDAD CRF",
+    "text": "Desde los plásticos de competición con gráficas integradas para máxima resistencia, hasta el diseño estilizado del asiento y la carrocería que facilita el movimiento del piloto, la nueva CRF250R está creada para dominar el circuito. Su estética agresiva y compacta, heredada del equipo HRC, refleja su verdadero ADN de motocross.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475d5ecd11d.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "POTENCIA CONTROLADA, RENDIMIENTO EXPLOSIVO",
+    "text": "El motor DOHC de 249cc con inyección electrónica, fue diseñado para entregar una respuesta inmediata y consistente en todo el rango de revoluciones. Su configuración de carrera corta y diámetro amplio prioriza la aceleración y el torque a altas RPM, ideal para los ritmos intensos del motocross. La transmisión de 5 marchas incorpora un embrague de 9 discos, que ofrece mayor resistencia al calor y un tacto más preciso en cada cambio.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a11e3f508.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "AJUSTE DE COMPETICIÓN AL ALCANCE",
+    "text": "La ECU permite mapear el motor para cada marcha y maximizar el rendimiento. Con el EMSB (Engine Mode Select Button) y el HRC Launch Control , el piloto puede ajustar la respuesta del motor y lograr la mejor largada posible según las condiciones de pista.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475dc9223ac.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "AJUSTADA PARA LA PISTA",
+    "text": "La horquilla invertida Showa de 49mm, con 310mm de recorrido, permite ajustes precisos para cada circuito. El sistema Pro-Link trasero, con 308mm de recorrido, asegura tracción y estabilidad en saltos y aterrizajes.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852d835d384f.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "CONTROL TOTAL",
+    "text": "Los frenos a disco (260mm adelante y 240mm atrás) con pinzas Nissin brindan potencia de frenado constante, incluso bajo exigencia.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475e5f5c4c2.webp"
+   },
+   {
+    "section": "PERFORMANCE",
+    "heading": "UNA BASE GANADORA",
+    "text": "Con un 70% del chasis renovado y nuevas suspensiones Showa ajustables, la CRF250R ofrece mayor rigidez, mejor tracción y respuesta inmediata en cada maniobra.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a17575388.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a95a9e9696f7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475d5ecd11d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a11e3f508.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475dc9223ac.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852d835d384f.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68475e5f5c4c2.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a17575388.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CRF250R%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf250r",
+  "sort_order": 9
+ },
+ {
+  "slug": "crf250rx",
+  "name": "CRF250RX",
+  "segment": "Off-Road",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910d6d35291.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/68409d2967d79.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689121feedb11.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.178 mm largo x 839 mm ancho x 1.278 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.478 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "958 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "110 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, monocilíndrico, DOHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "249,4 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "13.9:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "8 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 260mm, pinza Nissin de doble pistón"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 310mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 308mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "80/100-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "100/100-18"
+   },
+   {
+    "label": "EMSB (Engine Mode Select Button)",
+    "value": "Sí"
+   },
+   {
+    "label": "HRC LC (Honda Racing Corporation Launch Control)",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "TODO-TERRENO EN CADA DETALLE",
+    "text": "Desde los cubrepuños de serie, pasando por las gráficas “en molde” de máxima durabilidad, hasta los neumáticos Dunlop Geomax pensados para este tipo de uso, la nueva CRF250RX está específicamente diseñada para el enduro más exigente, desde subidas difíciles hasta terrenos técnicos intensos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b4534bc723.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO EXCEPCIONAL",
+    "text": "El motor DOHC de 249cc está alimentado por inyección electrónica, maximizando la eficiencia en la entrega de potencia y torque. El diámetro ancho y la carrera corta se combinan perfectamente para ofrecer una performance explosiva, maximizada por la revisión de componentes del motor. La transmisión de 5 velocidades cuenta con un embrague de 9 discos, disminuyendo el deslizamiento a altas revoluciones y mejorando la durabilidad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b455d730ed.webp"
+   },
+   {
+    "section": "PERFORMANCE",
+    "heading": "UNA ESTRUCTURA PENSADA PARA EL ENDURO",
+    "text": "Con un 70% de componentes del chasis nuevos y ajustes en la suspensión y en la dirección, la nueva CRF250RX ofrece rigidez y respuesta en la conducción todo-terreno.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b4579efc27.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "PREPARADOS PARA TODO",
+    "text": "La suspensión ajustable Showa se compone de una horquilla delantera invertida de 310mm de recorrido y de un monoshock trasero Pro-Link® de 308mm de recorrido.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852dd238ff80.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "COMPORTAMIENTO DINÁMICO CONFIGURABLE",
+    "text": "La ECU realiza un mapeo personalizado del motor para cada marcha, lo que optimiza la potencia entregada y maximiza el rendimiento. El EMSB (Engine Mode Select Button), combinado con el HRC Launch Control, permite ajustar con detalle el comportamiento de la nueva CRF 250RX para todo tipo de condiciones de manejo todo-terreno.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852dd5a9bd44.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689121feedb11.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b4534bc723.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b455d730ed.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682b4579efc27.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852dd238ff80.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852dd5a9bd44.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20CRF250RX.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf250rx",
+  "sort_order": 10
+ },
+ {
+  "slug": "crf450r",
+  "name": "CRF450R",
+  "segment": "Off-Road",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6a9ada078d8e9.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/696e30f1687ef.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a997651d1be7.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.183 mm largo x 827 mm ancho x 1.265 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.483 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "961 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "113 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, monocilíndrico, Unicam y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "449,7 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "13.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "6.3 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 260mm, pinza Nissin de doble pistón"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 310mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 310mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "80/100-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "120/80-19"
+   },
+   {
+    "label": "EMSB (Engine Mode Select Button)",
+    "value": "Sí"
+   },
+   {
+    "label": "HRC LC (Honda Racing Corporation Launch Control)",
+    "value": "Sí"
+   },
+   {
+    "label": "HSTC",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "POTENCIA EXPLOSIVA Y CONTROL TOTAL",
+    "text": "El motor Unicam® de 449cc entrega una potencia exclusiva y una respuesta inmediata desde bajas vueltas, ideal para los desafíos del motocross. Con una relación de compresión de 13.5:1 y componentes optimizados para la alta exigencia en pista, ofrece un rendimiento superior vuelta tras vuelta. El embrague hidráulico mejora la sensibilidad y el control en largadas y curvas técnicas, mientras que los carenados del radiador maximizan la refrigeración para mantener el rendimiento en condiciones extremas.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a6a9d4490.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "COMPORTAMIENTO A DISPOSICIÓN DE PILOTO",
+    "text": "En la CRF 450R, la tecnología está enfocada en maximizar el rendimiento en pista. El HRC Launch Control permite una largada precisa y controlada, con tres modos de arranque según el nivel de experiencia y condiciones del terreno. El EMSB (Engine Mode Select Button) ofrece 3 mapas de potencia para adaptar la entrega del motor según el estilo del piloto y las exigencias del circuito, ya sea buscando una respuesta más agresiva o una entrega más lineal y controlada.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a7bbc000d.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "AJUSTADA PARA COMPETIR AL MÁXIMO NIVEL",
+    "text": "La suspensión delantera Showa, con horquilla invertida de 310 mm, fue ajustada para el nuevo chasis. Brinda máxima respuesta en curvas, saltos y frenadas exigentes.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a827605ed.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "CONTROL TOTAL",
+    "text": "La CRF450R cuenta con un disco delantero de 260 mm y pinza Nissin de doble pistón, ofreciendo una respuesta de frenado potente y controlada. Además, incluye cubrediscos de serie para mayor protección.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a8c46d2ae.webp"
+   },
+   {
+    "section": "DISEÑO",
+    "heading": "UNA CRF NACIDA PARA DOMINAR EL MX",
+    "text": "Pensada exclusivamente para el motocross, la nueva CRF450R lleva el ADN de competición al máximo. Cada línea, cada componente y cada ajuste están diseñados para un solo objetivo: ganar en la pista. Liviana, agresiva y con una postura totalmente enfocada al MX, la CRF450R esta lista para llevarte al podio.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a67038305.webp"
+   },
+   {
+    "section": "PERFORMANCE",
+    "heading": "CHASIS LISTO PARA LA LARGADA",
+    "text": "El chasis fue diseñado para ser más liviano, delgado y rígido, lo que permite una respuesta más precisa en salidas, saltos y curvas cerradas. Con el 70% de sus componentes rediseñados, mejora notablemente la compatibilidad con la suspensión delantera y la agilidad en pista.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a7137e120.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a997651d1be7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a6a9d4490.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a7bbc000d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a827605ed.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a8c46d2ae.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a67038305.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6849a7137e120.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CRF450%20R%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf450r",
+  "sort_order": 11
+ },
+ {
+  "slug": "crf450rx",
+  "name": "CRF450RX",
+  "segment": "Off-Road",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910d3ac25ff.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6840acb1ec5c5.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/68912219be4c3.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.175 mm largo x 839 mm ancho x 1.280 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.478 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "958 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "116 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, monocilíndrico, Unicam y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "449,7 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "13.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "8 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 260mm, pinza Nissin de doble pistón"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 310mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 308mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "120/90-18"
+   },
+   {
+    "label": "EMSB (Engine Mode Select Button)",
+    "value": "Sí"
+   },
+   {
+    "label": "HRC LC (Honda Racing Corporation Launch Control)",
+    "value": "Sí"
+   },
+   {
+    "label": "HSTC (Honda Selectable Torque Control)",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "UNA CRF QUE LO PUEDE TODO",
+    "text": "Todos los detalles distintivos de una versión RX se combinan con un motor preparado para todo: la nueva CRF450RX combina lo increíble con lo imparable.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f6a8e940b7.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO EXCEPCIONAL",
+    "text": "El motor Unicam® de 449cc tiene una extraordinaria relación de compresión (13.5:1), lo que se traduce en una performance inigualable en enduro. El embrague hidráulico ofrece un tacto más suave, ideal para mejorar la precisión en el manejo. Los carenados alrededor del radiador fueron rediseñados para optimizar la refrigeración y el rendimiento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f6bd31e224.webp"
+   },
+   {
+    "section": "PERFORMANCE",
+    "heading": "AJUSTES ESTRUCTURALES",
+    "text": "El chasis fue diseñado para ser delgado y liviano, y para responder mejor en el manejo exigente. Aproximadamente el 70% de los componentes del chasis son nuevos, lo que mejora la compatibilidad del cuadro con la dirección y la suspensión, también revisadas.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f72f32293b.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "AL SERVICIO DEL RENDIMIENTO OFF-ROAD",
+    "text": "En la nueva CRF450RX, la tecnología está al servicio del rendimiento off-road. El HRC Launch Control ofrece diferentes modos de arranque antes del soltar el embrague por primera vez. El EMSB (Engine Mode Select Button) permite elegir entre potencia equilibrada y entrega de torque, rendimiento suave para barro resbaladizo o potencia máxima para arena profunda. Y el HSTC (Honda Selectable Torque Control) tiene 3 diferentes ajustes para modificar el comportamiento de la moto a gusto del piloto.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f74004e20e.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "SUSPENSIÓN SHOWA",
+    "text": "La suspensión ajustable Showa se compone de una horquilla delantera invertida de 310mm de recorrido y de un monoshock trasero Pro-Link® de 308mm de recorrido. Ambas suspensiones recibieron ajustes para trabajar mejor en conjunto con el nuevo chasis.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f74df64fa4.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "FRENOS NISSIN",
+    "text": "Los frenos (disco de 260mm adelante, disco de 240mm atrás) incluyen cubrediscos de serie y están accionados por pinzas Nissin.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f779b85eba.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/68912219be4c3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f6a8e940b7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f6bd31e224.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f72f32293b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f74004e20e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f74df64fa4.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f779b85eba.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20CRF450RX.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf450rx",
+  "sort_order": 12
+ },
+ {
+  "slug": "cb350-h-ness",
+  "name": "CB350 H'NESS",
+  "segment": "Custom",
+  "tagline": "De moda no pasa lo clásico",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/697b96f86e8ab.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6afb47cedfb51.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 8190000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/697b972752d1d.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.163 mm largo x 800 mm ancho x 1.107 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.441 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "800 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "181 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "348,4 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "15.0 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 310mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescopica Showa, 106mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Doble amortiguador Showa, 120mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "100/90-19 (Tubeless)"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "130/70-18 (Tubeless)"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO CLÁSICO, PERSONALIDAD MODERNA",
+    "text": "El diseño de la CB350 H´ness toma inspiración en la tradición CB, con una silueta elegante y detalles cromados que realzan su presencia. Su estilo retro-moderno combina componentes actuales con una estética clásica, logrando un equilibrio único entre lo atemporal y lo contemporáneo. Es una moto que no pasa desapercibida, pensada para quienes disfrutan cada kilómetro con estilo propio.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4bf3506c1.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "CARÁCTER DESDE EL PRIMER GIRO",
+    "text": "Con un motor monocilíndrico de 348cc, refrigerado por aire, la CB350 ofrece una entrega de potencia suave y constante desde bajas vueltas. Su comportamiento está pensado para una conducción relajada, ideal tanto para ciudad como para ruta. La caja de 5 velocidades, junto al embrague asistido y anti-rebote, asegura cambios precisos y sin esfuerzo, reforzando la experiencia de manejo clásica.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c068773b.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "CONTROL TOTAL EN CADA MANIOBRA",
+    "text": "Adelante equipa un disco de 310 mm con pinza Nissin de doble pistón, que ofrece una frenada potente y precisa. El sistema ABS de doble canal actúa de forma independiente en ambas ruedas, mejorando la estabilidad y evitando bloqueos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c19a798a.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "INFORMACIÓN CLARA, ESTILO ATEMPORAL",
+    "text": "El tablero analógico-digital combina lo mejor de ambos mundos: una lectura clara e intuitiva con una estética que respeta el legado de las CB. Su tacómetro analógico se complementa con una pantalla digital que muestra información útil para el día a día. Un detalle que suma funcionalidad sin perder el encanto visual.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c4667177.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "SUAVIDAD CON CADA KILÓMETRO",
+    "text": "Equipa horquilla telescópica delantera Showa con 135 mm de recorrido, calibrada para ofrecer un andar cómodo y estable, ideal tanto para la ciudad como para la ruta.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c6a40d13.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#616161"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/697b972752d1d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4bf3506c1.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c068773b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c19a798a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c4667177.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/696a4c6a40d13.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20CB350%20H%C2%B4ness.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb350-h-ness",
+  "sort_order": 13
+ },
+ {
+  "slug": "cb125f-twister",
+  "name": "CB125F TWISTER",
+  "segment": "Sport",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910dd1e759f.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6840b22eb0352.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "CB125F TWISTER",
+    "price": 4135300,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689122b4e49fd.webp"
+   },
+   {
+    "name": "CB125F DELUXE",
+    "price": 4176700,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689278ba17edd.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2037 mm largo x 772 mm ancho x 1070 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1310 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "781 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "117 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "Monocilíndrico, 4 tiempos, 2 válvulas, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "124,80 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9,0 : 1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Carburador"
+   },
+   {
+    "label": "Encendido",
+    "value": "DC-CDI (Ignición por descarga capacitiva)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "10,1 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "4 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco hidráulico perforado / 240 mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "A tambor / 130 mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica / 116 mm"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Basculante con doble amortiguador hidráulico y resorte"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "helicoidal / 92 mm"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "80/100-18 M/C 47 P"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "DISEÑO AERODINÁMICO",
+    "text": "Su espectacular diseño de corte aerodinámico y formas vanguardistas hacen de la CB125F una moto de estilo sport.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8b92a5be2.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "MOTOR 4 TIEMPOS",
+    "text": "Su motor monocilíndrico de 4 tiempos, 2 válvulas, OHC y refrigerado por aire le da un suave y fácil manejo.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8bb96473e.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "FRENO A DISCO",
+    "text": "Su freno a disco delantero, junto al nuevo sistema de frenado combinado (CBS), hace de la CB125F una moto segura para el día a día en la ciudad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8bd5d3ca1.webp"
+   },
+   {
+    "section": "CONFIABILIDAD",
+    "heading": "MARCA REGISTRADA",
+    "text": "Respaldada con el nombre de uno de los modelos históricos de Honda, la CB125F Twister brinda tranquilidad y confianza de marca, reflejada en mayor resistencia y vida útil de producto.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8c2e90c69.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#616161"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689122b4e49fd.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689278ba17edd.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8b92a5be2.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8bb96473e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8bd5d3ca1.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/682f8c2e90c69.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CB125%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb125f-twister",
+  "sort_order": 14
+ },
+ {
+  "slug": "cb190r-2-0",
+  "name": "CB190R 2.0",
+  "segment": "Sport",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6984b59b8553f.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6984b638e7c14.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 5867000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6984e758a4bd1.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.034 mm largo x 783 mm ancho x 1.064 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.356 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "796 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "141 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "184 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "12 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades, embrague anti-rebote."
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 276mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 118mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Showa, 115mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/70-17 Tubeless"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "140/70-17 Tubeless"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "NUEVO DISEÑO, ACTITUD SPORT",
+    "text": "La nueva CB190R 2.0 evoluciona su estilo con un diseño más marcado, moderno y compacto, que refuerza su presencia en la ciudad y transmite una clara actitud sport. Su frente agresivo, los volúmenes del tanque y su silueta streetfighter reflejan la evolución del diseño de la familia CB, con una imagen deportiva y urbana.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d20ca7662d.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "EQUILIBRIO IDEAL ENTRE RESPUESTA Y EFICIENCIA",
+    "text": "El motor monocilíndrico de 184 cc de la CB190R 2.0, con inyección electrónica PGM-FI, ofrece una entrega de potencia suave y progresiva, ideal para el uso urbano y los trayectos diarios. Su funcionamiento se destaca por el bajo nivel de vibraciones y buena respuesta en bajo y medio régimen, permite una conducción ágil, eficiente y cómoda, combinando rendimiento y consumo equilibrado.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d2107e081b.webp"
+   },
+   {
+    "section": "CHASIS",
+    "heading": "AGILIDAD URBANA CON CONTROL",
+    "text": "Su chasis está diseñado para ofrecer una conducción liviana, precisa y fácil en entornos urbanos. Con un peso en orden de marcha de 141 kg, la geometría compacta y la estructura equilibrada permiten cambios de dirección rápidos y una sensación de control constante, facilitando la circulación en el tráfico y las maniobras en espacios reducidos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d2167ed10a.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT Y ESTABILIDAD",
+    "text": "Equipada con suspensión Showa, la horquilla delantera invertida y el amortiguador trasero ofrecen un excelente equilibrio entre confort y control. Su puesta a punto permite absorber las irregularidades del asfalto con suavidad y mantener una respuesta firme en la conducción urbana.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d21a18e398.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "EFICIENCIA Y SEGURIDAD",
+    "text": "El sistema de frenos cuenta con disco delantero de 256 mm y disco trasero de 220 mm, con pinzas Nissin que garantizan una respuesta precisa. El ABS de doble canal optimiza la seguridad durante el frenado, ayudando a mantener la estabilidad y evitando el bloqueo de las ruedas.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d21da9cab5.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "La iluminación Full LED brinda una imagen moderna y una visibilidad clara en todo momento, reforzando la seguridad y la identidad deportiva del modelo.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d22276c014.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6984e758a4bd1.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d20ca7662d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d2107e081b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d2167ed10a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d21a18e398.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d21da9cab5.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d22276c014.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CB190%202.0%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb190r-2-0",
+  "sort_order": 15
+ },
+ {
+  "slug": "cb300f-twister",
+  "name": "CB300F TWISTER",
+  "segment": "Sport",
+  "tagline": "Atrapamiradas",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910de47d0f3.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 7850000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/689122a35cb01.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.084 mm largo x 765 mm ancho x 1.075 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.390 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "789 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "151 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 4 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "294 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "9.3:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "14.1 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 276mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 118mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Showa, 120mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/70-17"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "150/60-17"
+   },
+   {
+    "label": "HSTC (Honda Selectable Torque Control)",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO AGRESIVO",
+    "text": "Sus líneas deportivas hacen de este modelo un vehículo atractivo en imagen, con el espíritu de su antecesor, la CB250 Twister.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6830844e5ad61.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "TABLERO DIGITAL",
+    "text": "El tablero de instrumentos tiene un diseño atractivo y moderno, destacado vs sus competidores por ser digital, y además brindando una completa información.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683085e388cf2.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "ABS DE DOBLE CANAL",
+    "text": "Posee sistema de ABS de doble canal. Si alguna de las ruedas se bloquea, el sistema limita o reduce el frenado en esa rueda para evitar el derrape y permitir un mejor control durante el frenado.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68308649e1bca.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "SUSPENSIÓN TRASERA DE 5 POSICIONES",
+    "text": "Puede ajustar la precarga del muelle mediante el regulador para adaptarla a la carga o la superficie de la carretera, en condición más blanda o más dura.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6830868f5a8b6.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "INYECCIÓN ELECTRÓNICA",
+    "text": "Posee un motor a inyección de 293cm3 con 4 válvulas a la cabeza. Además posee radiador de aceite para ayudar a mantener la viscosidad y temperatura del lubricante manteniendo una condición óptima de funcionamiento.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852e25d692c9.webp"
+   },
+   {
+    "section": "TRANSMISIÓN",
+    "heading": "6 MARCHAS Y EMBRAGUE ANTI-REBOTE",
+    "text": "Transmisión de 6 marchas para obtener un mejor desempeño. Este modelo está equipado con embrague anti-rebote que reduce los efectos del frenado del motor en un rebaje brusco. Este sistema atenúa situaciones inesperadas de pérdida de maniobrabilidad por un rebaje accidental y/o fatiga al conductor en caminos que requieran frecuentes cambios de marcha.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852e26fe8b48.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#090fb3",
+   "#000000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/689122a35cb01.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6830844e5ad61.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683085e388cf2.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68308649e1bca.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6830868f5a8b6.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852e25d692c9.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852e26fe8b48.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CB300F%20TWISTER%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb300f-twister",
+  "sort_order": 16
+ },
+ {
+  "slug": "cb500-hornet",
+  "name": "CB500 HORNET",
+  "segment": "Sport",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6aa4630a4b52f.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6aa48c86a1924.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "CB500 HORNET E-Clutch",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa46206499d0.webp"
+   },
+   {
+    "name": "CB500 HORNET MT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4622a86b44.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.081 mm largo x 798 mm ancho x 1.059 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.409 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "789 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "E-Clutch: 192 kg / MT: 188 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, DOHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "471 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.7:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "17.1 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 296mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 108mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 119mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "120/70-17 (Tubeless)"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "160/60-17 (Tubeless)"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO STREETFIGHTER",
+    "text": "La CB500 Hornet combina líneas agresivas y proporciones compactas con el ADN streetfighter de Honda, logrando una imagen moderna y deportiva.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45c2530b8a.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "PODER EQUILIBRADO",
+    "text": "El motor DOHC bicilíndrico de 471cc, ofrece una entrega de potencia progresiva y buen torque desde bajas revoluciones, combinando respuesta, suavidad y control en todo tipo de recorrido.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45c7f2266c.webp"
+   },
+   {
+    "section": "ERGONOMÍA",
+    "heading": "CONTROL Y AGILIDAD",
+    "text": "Su chasis liviano y la posición de manejo favorecen una conducción ágil y reactiva. La suspensión Showa SFF-BP™ y el sistema Pro-Link aportan estabilidad y control en distintos escenarios.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa464dddc97a.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "DOBLE DISCO DELANTERO",
+    "text": "El doble disco delantero de 296 mm con pinzas Nissin, junto con el ABS de doble canal, ofrece una frenada potente, estable y controlada.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45d8499708.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "Honda E-Clutch",
+    "text": "El sistema Honda E-Clutch permite realizar los cambios de marcha sin accionar la maneta de embrague, ofreciendo una conducción más simple, ágil y confortable.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45e795e7ae.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa46206499d0.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4622a86b44.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45c2530b8a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45c7f2266c.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa464dddc97a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45d8499708.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa45e795e7ae.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20CB500%20Hornet%20E-Clutch%20-%20MT.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb500-hornet",
+  "sort_order": 17
+ },
+ {
+  "slug": "cb750-hornet",
+  "name": "CB750 HORNET",
+  "segment": "Sport",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6aa4641a44b6f.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6aa7fd8869a4d.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "CB750 HORNET E-Clutch",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa475d7e72db.webp"
+   },
+   {
+    "name": "CB750 HORNET MT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4762f9000b.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.090 mm largo x 780 mm ancho x 1.085 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.420 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "795 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "E-Clutch: 196 kg / MT: 190 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "755 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "11.0:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "15.2 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 296mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa SFF-BP™ USD , 118mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 130mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "120/70-17 (Tubeless)"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "160/60-17 (Tubeless)"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "DEPORTIVIDAD A PRIMERA VISTA",
+    "text": "Las líneas agresivas y los detalles de diseño de la CB750 Hornet refuerzan su carácter deportivo. Su nuevo frontal incorpora un faro LED de doble proyector que aporta una mirada más incisiva y una presencia aún más agresiva.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa46eeeeb828.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO SUPERIOR",
+    "text": "Su motor bicilíndrico en paralelo entrega 92 CV de potencia máxima, combinado con un chasis de acero tipo diamante y una transmisión de 6 velocidades con embrague antirrebote, ofreciendo una conducción ágil y emocionante.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa46fb4f11b7.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "Honda E-Clutch",
+    "text": "El sistema Honda E-Clutch permite realizar los cambios de marcha sin accionar la maneta de embrague, ofreciendo una conducción más simple, ágil y confortable.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4733ae8798.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "ABS DE DOBLE CANAL",
+    "text": "El sistema ABS de doble canal ayuda a evitar el bloqueo de las ruedas durante frenadas exigentes, brindando mayor control y seguridad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa47421c2bb0.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "ESQUEMA DE SUSPENSIÓN",
+    "text": "La horquilla invertida Showa SFF-BP™ de 41 mm y el sistema trasero Pro-Link ofrecen una respuesta precisa y un excelente comportamiento en diferentes condiciones de conducción.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa474bc559fe.webp"
+   }
+  ],
+  "colors": [
+   "#090fb3",
+   "#616161",
+   "#ddcd78"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa475d7e72db.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4762f9000b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa46eeeeb828.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa46fb4f11b7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4733ae8798.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa47421c2bb0.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa474bc559fe.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20CB750%20Hornet%20E-Clutch%20-%20MT.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/cb750-hornet",
+  "sort_order": 18
+ },
+ {
+  "slug": "nx190",
+  "name": "NX190",
+  "segment": "Adventure",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/69822871c999f.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/69b991f6c75c6.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 6907000,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6984ead1ea55f.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.035 mm largo x 843 mm ancho x 1.248 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.356 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "810 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "147 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHC y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "184 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "12 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 5 velocidades, embrague anti-rebote."
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Disco de 276mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 220mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 118mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Showa, 115mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/70-17 Tubeless"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "140/70-17 Tubeless"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO CROSSOVER",
+    "text": "La NX 190 adopta un diseño robusto y moderno que combina una estética de inspiración adventure con una silueta compacta y urbana. Su carenado frontal, el parabrisas y las líneas marcadas de la carrocería reflejan la nueva identidad de la familia NX, ofreciendo una imagen sólida y versátil, pensada para moverse en la ciudad y afrontar alternativamente caminos irregulares.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d1fb0bd449.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "EQUILIBRIO IDEAL ENTRE RESPUESTA Y EFICIENCIA",
+    "text": "El motor monocilíndrico de 184 cc de la NX 190, con inyección electrónica PGM-FI, ofrece una entrega de potencia progresiva y controlada, pensada para un manejo cómodo y controlado en ciudad y rutas urbanas. Su buena respuesta en bajo y medio régimen permite una conducción ágil y relajada, con un consumo equilibrado y un funcionamiento suave.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d20a97cb86.webp"
+   },
+   {
+    "section": "CHASIS",
+    "heading": "ESTABILIDAD Y CONTROL EN EL USO DIARIO",
+    "text": "Su chasis esta diseñado para ofrecer una conducción estable, predecible y fácil de manejar en el uso urbano. Con un peso en orden de marcha de 147 kg, la geometría equilibrada y la posición de manejo más elevada, brindan una sensación de control constante, facilitando la circulación en el tránsito y las maniobras a baja velocidad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d211cd4300.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CONFORT Y ESTABILIDAD EN EL USO DIARIO",
+    "text": "Equipada con suspensión Showa, la horquilla delantera invertida y el amortiguador trasero están calibrados para ofrecer una marcha confortable y estable en el uso urbano. Su puesta a punto permite absorber irregularidades del asfalto y mantener una pisada firme, brindando mayor confianza tanto en ciudad como en recorridos diarios más largos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d22315d4e7.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "SEGURIDAD Y CONTROL EN TODO MOMENTO",
+    "text": "El sistema de frenos cuenta con disco delantero de 256 mm y disco trasero de 220 mm, con pinzas Nissin que aseguran una respuesta progresiva y confiable. El ABS de doble canal optimiza la estabilidad durante el frenado, ayudando a mantener el control de la moto en superficies urbanas y situaciones imprevistas.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d230d82ca0.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "La iluminación Full LED brinda una imagen moderna y una visibilidad clara en todo momento, mejorando la seguridad y la percepción del entorno durante la conducción urbana y diaria.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d237fc6fef.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#000000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6984ead1ea55f.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d1fb0bd449.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d20a97cb86.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d211cd4300.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d22315d4e7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d230d82ca0.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/697d237fc6fef.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20NX%20190%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/nx190",
+  "sort_order": 19
+ },
+ {
+  "slug": "nx500",
+  "name": "NX500",
+  "segment": "Adventure",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6aa4804f76b03.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6aa48aa632087.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "NX500 E-Clutch",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa48610adfc3.webp"
+   },
+   {
+    "name": "NX500 MT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4866967738.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.163 mm largo x 830 mm ancho x 1.417 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.443 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "834 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "E-Clutch: 200 kg / MT: 196 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, DOHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "471 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.7:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "17.7 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 296mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 133mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 135mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/80-19 (Tubeless)"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "160/60-17 (Tubeless)"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO CROSSOVER",
+    "text": "La nueva NX500 combina un diseño moderno y sofisticado con la versatilidad necesaria para desenvolverse tanto en la ciudad como en trayectos más largos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4834dc6af7.webp"
+   },
+   {
+    "section": "ERGONOMÍA",
+    "heading": "PENSADA PARA EL CONFORT",
+    "text": "Su posición de conducción ergonómica y el esquema de suspensiones Showa, con horquilla invertida SFF-BP™ y sistema trasero Pro-Link, ofrecen confort y equilibrio en diferentes condiciones de uso.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa483ac87a0d.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "MÁS ALLÁ DE LA CIUDAD",
+    "text": "El motor bicilíndrico DOHC de 471 cc ofrece una entrega de potencia suave y progresiva, acompañado por una transmisión de 6 velocidades y embrague antirrebote.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4841ca3e5b.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "DOBLE DISCO DELANTERO",
+    "text": "El doble disco delantero de 296 mm con pinzas Nissin, junto con el ABS de doble canal, ofrece una frenada potente y controlada.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa48481cac62.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "Honda E-Clutch",
+    "text": "El sistema Honda E-Clutch permite realizar los cambios de marcha sin accionar la maneta de embrague, ofreciendo una conducción más simple, ágil y confortable.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa485366ccda.webp"
+   }
+  ],
+  "colors": [
+   "#090fb3",
+   "#000000",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa48610adfc3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6aa4866967738.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4834dc6af7.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa483ac87a0d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa4841ca3e5b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa48481cac62.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6aa485366ccda.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20NX500%20E-Clutch%20-%20MT.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/nx500",
+  "sort_order": 20
+ },
+ {
+  "slug": "nc750x",
+  "name": "NC750X",
+  "segment": "Adventure",
+  "tagline": "Tu nuevo horizonte",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910e82d4f7c.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/696a5387a232a.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6891206caa74e.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.210 mm largo x 846 mm ancho x 1.332 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.526 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "802 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "215 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico paralelo, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "745 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "10,7:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Encendido",
+    "value": "Digital transistorizado con control computarizado y avance electrónico"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "14,1 Litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 296mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 240mm, pinza de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla telescópica, 120mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Amortiguador Monoshock, basculante Pro-Link, 120mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "120/70-17"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "160/60-17"
+   },
+   {
+    "label": "HSTC (Honda Selectable Torque Control)",
+    "value": "Sí"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "ACTITUD URBANA, ESTILO RENOVADO",
+    "text": "La NC750X se actualiza con un diseño más moderno y funcional. Nuevo carenado frontal, diseño renovado de llantas y detalles premium como las costuras en el asiento realzan su presencia. Además, utiliza materiales sostenibles como el Durabio, reafirmando su compromiso con el medio ambiente.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68813344cfe3b.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "ABS DE DOBLE CANAL",
+    "text": "La nueva NC750X cuenta con ABS de doble canal, que evita bloqueos y mejora el control en frenadas exigentes.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68813501caae0.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "Fundamental para los trayectos largos, el sistema de iluminación FULL LED otorga mayor iluminación y visibilidad.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6881356c0ac7d.webp"
+   },
+   {
+    "section": "CONFORT",
+    "heading": "FACILIDAD DE MANEJO",
+    "text": "La baja altura del asiento brinda mayor control y confianza, especialmente al detenerse.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/688133ffa3f62.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#ffffff",
+   "#247a05"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6891206caa74e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68813344cfe3b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/68813501caae0.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6881356c0ac7d.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/688133ffa3f62.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20NC%20750x%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/nc750x",
+  "sort_order": 21
+ },
+ {
+  "slug": "xl750-transalp",
+  "name": "XL750 TRANSALP",
+  "segment": "Adventure",
+  "tagline": "Donde cada camino se convierte en historia",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/69eb88781d2aa.webp",
+  "hero_url": "",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "XL750 TRANSALP E-Clutch",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/69eb890bb2012.webp"
+   },
+   {
+    "name": "XL750 TRANSALP MT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/69eb8d8ab4deb.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.325 mm largo x 838 mm ancho x 1.455 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.560 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "850 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "E-Clutch: 216 Kg / MT: 210 Kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "755 cc"
+   },
+   {
+    "label": "Relación de compresión",
+    "value": "11.0:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "16.9 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades, embrague anti-rebote"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 310mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 256mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 200mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 190mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "150/70-18"
+   }
+  ],
+  "features": [
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "HONDA E-Clutch",
+    "text": "La Honda XL750 Transalp debuta en Argentina equipada con la innovadora tecnología E-Clutch, un sistema de embrague electrónico exclusivo de Honda que garantiza mayor practicada y comodidad en cualquier viaje.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb791eaca3f.webp"
+   },
+   {
+    "section": "DISEÑO",
+    "heading": "ESTILO AVENTURERO CON HERENCIA LEGENDARIA",
+    "text": "El diseño de la XL750 Transalp rinde homenaje a la saga original con un diseño renovado, moderno y funcional. Su carenado envolvente, líneas afiladas y llanta delantera de 21” refuerzan su auténtico perfil adventure. Ideal para recorrer largas distancias, combina una estética robusta con una ergonomía cómoda que transmite espíritu de aventura desde el primer vistazo.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7b099dc5e.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "RENDIMIENTO CONTUNDENTE, CAMBIOS SUAVES Y PRECISOS",
+    "text": "Motor bicilíndrico en línea de 755cc con culata Unicam, la misma tecnología de la CRF1100L África Twin. Compacto y liviano, entrega torque desde bajas vueltas para una respuesta ágil. La caja de 6 velocidades se complementa con embrague asistido y anti-rebote, facilitando cambios suaves y reduciendo el esfuerzo en conducción prolongada. Un conjunto pensado para adaptarse a distintos terrenos técnicos.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69f1189039c06.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "CICLÍSTICA Y ERGONOMÍA ADVENTURE",
+    "text": "Horquilla invertida Showa SFF-CA con 200mm de recorrido y suspensión trasera Pro-link con monoshock, que aseguran buena absorción y control en todo tipo de terrenos. La posición de manejo erguida, el asiento amplio y la buena protección aerodinámica favorecen el confort en viajes largos, sin comprometer el dominio sobre la moto.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7b6de3424.webp"
+   },
+   {
+    "section": "SEGURIDAD",
+    "heading": "CONTROL TOTAL EN CADA MANIOBRA",
+    "text": "La XL750 Transalp incorpora doble disco delantero de 310mm con pinzas Nissin radiales, y disco trasero de 256mm, logrando una frenada potente y controlada. El ABS de doble canal, con modo Off-road, permite desconectar el ABS trasero para mayor precisión en terrenos difíciles.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7c098b4da.webp"
+   }
+  ],
+  "colors": [
+   "#000000",
+   "#616161",
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/69eb890bb2012.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/69eb8d8ab4deb.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb791eaca3f.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7b099dc5e.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69f1189039c06.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7b6de3424.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69eb7c098b4da.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20Tecnica%20XL750%20Transalp%202026.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/xl750-transalp",
+  "sort_order": 22
+ },
+ {
+  "slug": "crf1100l-africa-twin",
+  "name": "CRF1100L AFRICA TWIN",
+  "segment": "Adventure",
+  "tagline": "Conquistá tu propia aventura",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6a28280a73dc2.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6a2b2bf417c91.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "CRF1100A",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a282ce79dd4b.webp"
+   },
+   {
+    "name": "CRF1100D",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a282d2a75845.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.330 mm largo x 960 mm ancho x 1.540 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.575 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "870/850 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "MT: 231 kg / AT-DCT: 242 Kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "1.084 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "18.8 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 310mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 256mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa, 204mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa, 220mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "90/90-21"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "150/70-18"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "DISEÑADA PARA EL OFF-ROAD",
+    "text": "La CRF1100L Africa Twin se actualiza con carenados renovados que, junto a un nuevo parabrisas ajustable en 5 posiciones, mejoran su desempeño aerodinámico. La rueda delantera de 21” con neumáticos sin cámara, sumada a un despeje de 250mm y un asiento angosto ajustable a una altura de hasta 870mm, hacen de la Africa Twin la motocicleta off-road por definición.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282a6a8bfee.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO MEJORADO",
+    "text": "El motor bicilíndrico de 1.084cc recibió ajustes en los sistemas de admisión y escape para mejorar el torque en un 7%, lo que equivale a una mayor capacidad de respuesta en las aceleraciones. La transmisión por cadena, de 6 velocidades, se ofrece en opciones de cambio manual y automático de doble embrague (DCT), esta última con una función “G”, seleccionable en la pantalla TFT, para maximizar la tracción en condiciones off-road.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282acb66e11.webp"
+   },
+   {
+    "section": "UNIDAD DE MEDICIÓN INERCIAL (IMU)",
+    "heading": "GESTIÓN DINÁMICA INTEGRAL",
+    "text": "La CRF1100L Africa Twin está equipada con una Unidad de Medición Inercial (IMU) de 6 ejes que monitorea en tiempo real las condiciones del vehículo de manera precisa, generando información para diversas funcionalidades, tales como el Quick Shifter, la transmisión DCT, el control de wheelie, el ABS en curvas y el HSTC (Honda Selectable Torque Control), entre otras.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834ba2c7c7ef.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "La iluminación FULL LED con DRL (Daytime Running Lights) garantiza la máxima visibilidad, al mismo tiempo que realza la apariencia distintiva de la CRF1100L Africa Twin.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282b395b6b3.webp"
+   },
+   {
+    "section": "CHASIS",
+    "heading": "CHASIS",
+    "text": "El chasis sigue la fórmula perfecta: un marco de acero liviano, un basculante de aluminio inspirado en la CRF450R y un subchasis atornillado logran la combinación perfecta entre ligereza y rigidez.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834bb0a25281.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "ESQUEMA DE SUSPENSIÓN SHOWA",
+    "text": "Tanto la horquilla delantera invertida como el mono-shock Pro-Link trasero son de recorrido largo: 203mm y 221mm respectivamente, lo que se traduce en una capacidad de absorción superior cuando se enfrentan terrenos irregulares.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282c0c1aa5a.webp"
+   },
+   {
+    "section": "FRENOS",
+    "heading": "SISTEMA DE FRENOS",
+    "text": "Los discos delanteros de 310mm de diámetro, accionados por pinzas Nissin de 4 pistones, sumados al disco trasero de 256mm de diámetro y la función de ABS en curvas, garantizan la máxima eficiencia y seguridad en el frenado.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282c656a287.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a282ce79dd4b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a282d2a75845.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282a6a8bfee.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282acb66e11.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834ba2c7c7ef.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282b395b6b3.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834bb0a25281.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282c0c1aa5a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a282c656a287.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CRF1100L%20AFRICA%20TWIN%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf1100l-africa-twin",
+  "sort_order": 23
+ },
+ {
+  "slug": "crf1100l-africa-twin-as",
+  "name": "CRF1100L AFRICA TWIN ADVENTURE SPORTS",
+  "segment": "Adventure",
+  "tagline": "Conquistá tu propia aventura",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/6a27181da3aff.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6a2b2c16527bb.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "CRF1100 MT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a271ca04098b.webp"
+   },
+   {
+    "name": "CRF1100 DCT",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6a271da35d4f6.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.305 mm largo x 960 mm ancho x 1.530 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.570 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "855/835 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "MT: 243 kg / AT-DCT: 253 Kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 8 válvulas, bicilíndrico, OHC y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "1.084 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "10.5:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "24.8 litros"
+   },
+   {
+    "label": "Transmisión",
+    "value": "Cadena, 6 velocidades"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Doble disco de 310mm, pinza Nissin de 2 pistones, ABS"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Disco de 256mm, pinza Nissin de pistón simple, ABS"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Horquilla invertida Showa EERA®, 186mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Monoshock Pro-Link Showa EERA®, 200mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "110/80-19"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "150/70-18"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "LA COMPAÑERA PERFECTA DE AVENTURAS",
+    "text": "La CRF1100L Africa Twin Adventure Sports no solo presenta un diseño renovado: también incorpora una rueda delantera de 19” con neumáticos sin cámara de fácil reparación, además de un centro de gravedad más bajo a través de una altura de asiento inferior (835mm) y un despeje de 220mm. Todo esto, sumado a un tanque de combustible de 24,8 litros, convierten a la Africa Twin Adventure Sports en la compañera ideal para esos largos trayectos en la ruta.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a271e03d2d55.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "RENDIMIENTO MEJORADO",
+    "text": "El motor bicilíndrico de 1.084cc recibió ajustes en los sistemas de admisión y escape para mejorar el torque en un 7%, lo que equivale a una mayor capacidad de respuesta en las aceleraciones. La transmisión por cadena, de 6 velocidades, se ofrece en opciones de cambio manual y automático de doble embrague (DCT), esta última con una función “G”, seleccionable en la pantalla TFT, para maximizar la tracción en condiciones off-road.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a271f9695121.webp"
+   },
+   {
+    "section": "UNIDAD DE MEDICIÓN INERCIAL (IMU)",
+    "heading": "GESTIÓN DINÁMICA INTEGRAL",
+    "text": "La CRF1100L Africa Twin Adventure Sports está equipada con una Unidad de Medición Inercial (IMU) de 6 ejes que monitorea en tiempo real las condiciones del vehículo de manera precisa, generando información para diversas funcionalidades, tales como el Quick Shifter, la suspensión electrónica, el control de wheelie, el HSTC (Honda Selectable Torque Control), el ABS y las luces de curvas, entre otras.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834abc5b2243.webp"
+   },
+   {
+    "section": "SUSPENSIÓN",
+    "heading": "AMORTIGUACIÓN PERFECTA",
+    "text": "La CRF1100L Africa Twin Adventure Sports ahora equipa suspensión Showa-EERA™ (Electronically Equipped Ride Adjustment), que puede gestionar electrónicamente la horquilla invertida delantera de 185mm de recorrido y el mono-shock Pro-Link trasero de 201mm de recorrido a través de cuatro modos predeterminados: Hard, Mid, Soft y Off Road. También puede personalizarse a gusto en el modo User.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834ac0f03c60.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "ILUMINACIÓN FULL LED",
+    "text": "La iluminación FULL LED con DRL (Daytime Running Lights) realza la apariencia distintiva de la CRF1100L Africa Twin Adventure Sports. Las luces de curva, exclusivas de esta versión, garantizan la máxima visibilidad en la ruta.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a27204e4bc21.webp"
+   },
+   {
+    "section": "CHASIS",
+    "heading": "CHASIS",
+    "text": "El chasis sigue la fórmula perfecta: un marco de acero liviano, un basculante de aluminio inspirado en la CRF450R y un subchasis atornillado logran la combinación perfecta entre ligereza y rigidez.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834adbd0a5fc.webp"
+   }
+  ],
+  "colors": [
+   "#ffffff"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a271ca04098b.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6a271da35d4f6.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a271e03d2d55.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a271f9695121.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834abc5b2243.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834ac0f03c60.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6a27204e4bc21.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6834adbd0a5fc.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20CRF1100L%20AFRICA%20TWIN%20ADVENTURE%20digital.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/crf1100l-africa-twin-as",
+  "sort_order": 24
+ },
+ {
+  "slug": "trx250",
+  "name": "TRX250",
+  "segment": "ATV",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910ea73d6ed.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/6840bc2e73440.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6891233101d73.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "1.905 mm largo x 1.034 mm ancho x 1.069 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.130 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "792 mm"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "198 kg"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHV y refrigerado por aire"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "229 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.2:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Carburador"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "9,1L (incluye 2,3L de reserva)"
+   },
+   {
+    "label": "Transmisión",
+    "value": "5 velocidades con reversa, semi-automática"
+   },
+   {
+    "label": "Tracción",
+    "value": "Simple trasera"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Tambores independientes sellados de 130mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor sellado de 140mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Doble horquilla independiente, 130mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Brazo oscilante con mono-amortiguador, 125mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "22 x 7-11"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "22 x 10-9"
+   },
+   {
+    "label": "Capacidad de carga delantera",
+    "value": "15 kg"
+   },
+   {
+    "label": "Capacidad de carga trasera",
+    "value": "30 kg"
+   },
+   {
+    "label": "Capacidad de remolque",
+    "value": "227 kg"
+   }
+  ],
+  "features": [
+   {
+    "section": "DISEÑO",
+    "heading": "COMPACTO Y LIVIANO",
+    "text": "El diseño compacto del nuevo TRX250 TM lo convierte en la opción ideal para los trabajos del día a día.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a13894e690.webp"
+   },
+   {
+    "section": "MOTOR",
+    "heading": "RENDIMIENTO PARA EL DÍA A DÍA",
+    "text": "El motor de 229cc, especialmente diseñado para esta serie, proporciona torque a bajas vueltas y potencia. Su disposición longitudinal reduce las fricciones y vuelve más eficiente la transmisión de potencia a las ruedas traseras.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a13c09b623.webp"
+   },
+   {
+    "section": "MANIOBRABILIDAD",
+    "heading": "FACILIDAD DE MANEJO",
+    "text": "Más compacto y liviano que generaciones anteriores, el nuevo TRX250 TM ofrece una maniobrabilidad mejorada que reduce la fatiga tanto en el uso recreativo como utilitario.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a143916bbd.webp"
+   },
+   {
+    "section": "CONFORT",
+    "heading": "DISEÑADO PARA LARGOS DÍAS DE TRABAJO",
+    "text": "La disposición del manubrio y del asiento ancho y mullido proporcionan una posición de manejo cómoda para el día a día laboral. Los comandos de encendido electrico, reversa y freno de estacionamiento se encuentran integrados al manillar, evitando tener que quitar las manos del manubrio. Además, los reposapiés están diseñados para garantizar la estabilidad de los pies del conductor en los contextos más desafiantes.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a1463baa41.webp"
+   },
+   {
+    "section": "CAPACIDAD DE CARGA",
+    "heading": "PARA LLEVAR TODO LO NECESARIO",
+    "text": "La parrilla delantera de 15kg de capacidad máxima de carga y la parrilla trasera de 30kg de capacidad máxima de carga hacen del nuevo TRX250 TM el compañero ideal de trabajo.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a14f1e4ba2.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6891233101d73.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a13894e690.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a13c09b623.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a143916bbd.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a1463baa41.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a14f1e4ba2.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/Ficha%20T%C3%A9cnica%20TRX250.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/trx250",
+  "sort_order": 25
+ },
+ {
+  "slug": "trx420",
+  "name": "TRX420",
+  "segment": "ATV",
+  "tagline": "",
+  "image_url": "https://motos.honda.com.ar/assets/uploads/models/68910eb40b713.webp",
+  "hero_url": "https://motos.honda.com.ar/assets/uploads/main_sliders/69dff17f8b4b6.webp",
+  "price_valid_to": "2026-11-30",
+  "versions": [
+   {
+    "name": "",
+    "price": 0,
+    "image": "https://motos.honda.com.ar/assets/uploads/models_versions/6984ee0431b63.webp"
+   }
+  ],
+  "specs": [
+   {
+    "label": "Dimensiones",
+    "value": "2.103 mm largo x 1.204 mm ancho x 1.173 mm alto"
+   },
+   {
+    "label": "Distancia entre ejes",
+    "value": "1.270 mm"
+   },
+   {
+    "label": "Altura del asiento",
+    "value": "856 mm (TM) / 853 mm (FM)"
+   },
+   {
+    "label": "Peso en orden de marcha",
+    "value": "263 kg (TM) / 279 kg (FM)"
+   },
+   {
+    "label": "Motor",
+    "value": "4 tiempos, 2 válvulas, monocilíndrico, OHV y refrigerado por líquido"
+   },
+   {
+    "label": "Cilindrada",
+    "value": "420 cc"
+   },
+   {
+    "label": "Relación de Compresión",
+    "value": "9.9:1"
+   },
+   {
+    "label": "Alimentación",
+    "value": "Sistema de inyección programada de combustible (PGM-FI)"
+   },
+   {
+    "label": "Arranque",
+    "value": "Eléctrico"
+   },
+   {
+    "label": "Capacidad del tanque de nafta",
+    "value": "14,8L (incluye 4,9L de reserva)"
+   },
+   {
+    "label": "Transmisión",
+    "value": "5 velocidades con reversa, acoplamiento constante"
+   },
+   {
+    "label": "Tracción",
+    "value": "Simple trasera (TM) / Integral + TraxLok + Diferencial delantero (FM)"
+   },
+   {
+    "label": "Freno delantero",
+    "value": "Discos hidráulicos de 190mm"
+   },
+   {
+    "label": "Freno trasero",
+    "value": "Tambor sellado de 160mm"
+   },
+   {
+    "label": "Suspensión delantera",
+    "value": "Doble horquilla independiente, 170mm de recorrido"
+   },
+   {
+    "label": "Suspensión trasera",
+    "value": "Brazo oscilante con mono-amortiguador, 170mm de recorrido"
+   },
+   {
+    "label": "Neumático delantero",
+    "value": "24 x 8-12"
+   },
+   {
+    "label": "Neumático trasero",
+    "value": "24 x 10-11"
+   },
+   {
+    "label": "Capacidad de carga delantera",
+    "value": "30 kg"
+   },
+   {
+    "label": "Capacidad de carga trasera",
+    "value": "60 kg"
+   },
+   {
+    "label": "Capacidad de remolque",
+    "value": "385 kg"
+   }
+  ],
+  "features": [
+   {
+    "section": "HECHO EN ARGENTINA",
+    "heading": "PRODUCCIÓN NACIONAL",
+    "text": "El TRX420 no solo es un producto pensado para el campo argentino, con innumerables usos y una potencia que lo convierten en la opción más inteligente para productores locales, sino que también se fabrica en el país.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69e01f97b53fb.webp"
+   },
+   {
+    "section": "DISEÑO",
+    "heading": "ROBUSTO Y AVENTURERO",
+    "text": "El estilo musculoso del nuevo TRX420 demuestra que está listo para las aventuras o trabajos más exigentes.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff2ba93508.webp"
+   },
+   {
+    "section": "MOTOR Y TRANSMISIÓN",
+    "heading": "PREPARADO PARA LA EXIGENCIA",
+    "text": "El potente motor de 420cc de disposición longitudinal ofrece grandes prestaciones en términos de torque y potencia.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff2f54f2ee.webp"
+   },
+   {
+    "section": "CONFORT",
+    "heading": "POSICIÓN DE MANEJO CÓMODA",
+    "text": "El triángulo barra-asiento-estriberas se combina con una suspensión mullida para brindar una ergonomía de máximo confort.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff33d19629.webp"
+   },
+   {
+    "section": "CAPACIDAD DE CARGA",
+    "heading": "QUE NO FALTE NADA",
+    "text": "La parrilla de acero delantera tiene una capacidad de carga máxima de 30 kg, mientras que la parrilla trasera soporta hasta 60 kg.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a18545ac0a.webp"
+   },
+   {
+    "section": "TECNOLOGÍA",
+    "heading": "TABLERO DE INSTRUMENTOS DIGITAL",
+    "text": "El tablero digital es de fácil lectura y cuenta con toda la información necesaria: velocímetro, odómetro, marcha engranada, combustible, reloj, indicador de mantenimiento, entre otras funciones.",
+    "image": "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852bbd3918d1.webp"
+   }
+  ],
+  "colors": [
+   "#cc0000",
+   "#616161"
+  ],
+  "gallery": [
+   "https://motos.honda.com.ar/assets/uploads/models_versions/6984ee0431b63.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69e01f97b53fb.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff2ba93508.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff2f54f2ee.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/69dff33d19629.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/683a18545ac0a.webp",
+   "https://motos.honda.com.ar/assets/uploads/models_feature_slides/6852bbd3918d1.webp"
+  ],
+  "spec_pdf_url": "https://motos.honda.com.ar/assets/uploads/models/FICHA%20T%C3%89CNICA%20TRX%20420%20FM%20-%20TM.pdf",
+  "source_url": "https://motos.honda.com.ar/modelos/trx420",
+  "sort_order": 26
+ }
+]
