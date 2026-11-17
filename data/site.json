@@ -2,8 +2,8 @@
   "domain": "catalogo.goi-sa.com.ar",
   "brand": "GOI Honda",
   "legalName": "GOI S.A.",
-  "whatsapp": "543754414730",
-  "phone": "+54 3754 414730",
+  "whatsapp": "543754414727",
+  "phone": "+54 3754 414727",
   "email": "contacto@goi-sa.com.ar",
   "address": "Av. Belgrano y Las Heras 25, Leandro N. Alem, Misiones",
   "instagram": "https://www.instagram.com/honda_goi_sa/",
@@ -11,9 +11,18 @@
   "heroTitle": "Encontrá tu próxima moto",
   "heroCopy": "Mirá fotos, precio sugerido y ficha técnica de cada modelo, y pedí tu cotización sin moverte de casa.",
   "trust": [
-    { "title": "Concesionario oficial", "text": "GOI S.A. vende y atiende motos Honda en Leandro N. Alem, Misiones." },
-    { "title": "Datos de Honda", "text": "Fotos, especificaciones y precio sugerido tomados de la web oficial de Honda Argentina." },
-    { "title": "Te asesoramos", "text": "Pedí tu cotización y un asesor te confirma precio final y disponibilidad." }
+    {
+      "title": "Concesionario oficial",
+      "text": "GOI S.A. vende y atiende motos Honda en Leandro N. Alem, Misiones."
+    },
+    {
+      "title": "Datos de Honda",
+      "text": "Fotos, especificaciones y precio sugerido tomados de la web oficial de Honda Argentina."
+    },
+    {
+      "title": "Te asesoramos",
+      "text": "Pedí tu cotización y un asesor te confirma precio final y disponibilidad."
+    }
   ],
   "quoteTitle": "Pedí tu cotización",
   "quoteCopy": "Contanos qué moto te interesa y te respondemos por WhatsApp con el precio final y la disponibilidad.",
