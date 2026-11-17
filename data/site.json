@@ -44,17 +44,22 @@
       ]
     },
     {
-      "label": "Ruta y aventura",
+      "label": "Aventura",
       "segments": [
-        "Adventure",
-        "On-Off",
-        "Custom"
+        "Adventure"
       ]
     },
     {
-      "label": "Deportivas",
+      "label": "Doble propósito",
       "segments": [
-        "Sport"
+        "On-Off"
+      ]
+    },
+    {
+      "label": "Deportivas y custom",
+      "segments": [
+        "Sport",
+        "Custom"
       ]
     },
     {
