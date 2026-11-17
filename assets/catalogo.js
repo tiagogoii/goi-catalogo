@@ -32,13 +32,13 @@
     var chips = Array.prototype.slice.call(document.querySelectorAll(".chip"));
     var q = document.getElementById("q"), sort = document.getElementById("sort");
     var count = document.getElementById("count"), empty = document.getElementById("empty");
-    var segment = "";
+    var uso = "";
     var norm = function (s) { return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, ""); };
 
     var apply = function () {
       var text = norm(q.value.trim());
       var shown = items.filter(function (li) {
-        var ok = (!segment || li.getAttribute("data-segment") === segment) && (!text || norm(li.getAttribute("data-name") + " " + li.getAttribute("data-segment")).indexOf(text) !== -1);
+        var ok = (!uso || li.getAttribute("data-uso") === uso) && (!text || norm(li.getAttribute("data-name") + " " + li.getAttribute("data-segment") + " " + li.getAttribute("data-uso")).indexOf(text) !== -1);
         li.hidden = !ok;
         return ok;
       });
@@ -51,13 +51,13 @@
         return sort.value === "asc" ? price(a) - price(b) : price(b) - price(a);
       });
       sorted.forEach(function (li) { grid.appendChild(li); });
-      count.textContent = shown.length === 1 ? "1 modelo" : shown.length + " modelos";
+      count.textContent = shown.length === 1 ? "1 moto" : shown.length + " motos";
       empty.hidden = shown.length > 0;
     };
 
     chips.forEach(function (chip) {
       chip.addEventListener("click", function () {
-        segment = chip.getAttribute("data-segment");
+        uso = chip.getAttribute("data-uso");
         chips.forEach(function (c) { c.setAttribute("aria-pressed", String(c === chip)); });
         apply();
       });
@@ -65,8 +65,8 @@
     q.addEventListener("input", apply);
     sort.addEventListener("change", apply);
     document.getElementById("reset").addEventListener("click", function () {
-      q.value = ""; segment = ""; sort.value = "order";
-      chips.forEach(function (c) { c.setAttribute("aria-pressed", String(c.getAttribute("data-segment") === "")); });
+      q.value = ""; uso = ""; sort.value = "order";
+      chips.forEach(function (c) { c.setAttribute("aria-pressed", String(c.getAttribute("data-uso") === "")); });
       apply();
     });
   }

@@ -7,7 +7,7 @@
   "email": "contacto@goi-sa.com.ar",
   "address": "Av. Belgrano y Las Heras 25, Leandro N. Alem, Misiones",
   "instagram": "https://www.instagram.com/honda_goi_sa/",
-  "heroEyebrow": "Catálogo oficial Honda · GOI S.A.",
+  "heroEyebrow": "Catálogo oficial Honda",
   "heroTitle": "Encontrá tu próxima moto",
   "heroCopy": "Mirá fotos, precio sugerido y ficha técnica de cada modelo, y pedí tu cotización sin moverte de casa.",
   "trust": [
@@ -26,5 +26,48 @@
   ],
   "quoteTitle": "Pedí tu cotización",
   "quoteCopy": "Contanos qué moto te interesa y te respondemos por WhatsApp con el precio final y la disponibilidad.",
-  "footerNote": "Los precios son valores sugeridos al público por Honda Motor de Argentina, no incluyen flete, seguro ni patentamiento, y el precio final y la disponibilidad los confirma GOI. Fotos y especificaciones de Honda; pueden cambiar sin previo aviso."
+  "footerNote": "Los precios son valores sugeridos al público por Honda Motor de Argentina, no incluyen flete, seguro ni patentamiento, y el precio final y la disponibilidad los confirma GOI. Fotos y especificaciones de Honda; pueden cambiar sin previo aviso.",
+  "heroModel": "cb750-hornet",
+  "usos": [
+    {
+      "label": "Ciudad",
+      "segments": [
+        "Cub",
+        "Scooter",
+        "Fun"
+      ]
+    },
+    {
+      "label": "Trabajo",
+      "segments": [
+        "Business"
+      ]
+    },
+    {
+      "label": "Ruta y aventura",
+      "segments": [
+        "Adventure",
+        "On-Off",
+        "Custom"
+      ]
+    },
+    {
+      "label": "Deportivas",
+      "segments": [
+        "Sport"
+      ]
+    },
+    {
+      "label": "Off-road",
+      "segments": [
+        "Off-Road"
+      ]
+    },
+    {
+      "label": "Cuatriciclos",
+      "segments": [
+        "ATV"
+      ]
+    }
+  ]
 }

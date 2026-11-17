@@ -12,7 +12,7 @@
 <meta property="og:title" content="Catálogo de motos Honda | GOI Honda">
 <meta property="og:description" content="Todas las motos Honda con fotos, precio sugerido y ficha técnica. GOI S.A., concesionario oficial en Leandro N. Alem, Misiones.">
 <meta property="og:url" content="https://catalogo.goi-sa.com.ar/">
-<meta property="og:image" content="https://motos.honda.com.ar/assets/uploads/models/69822871c999f.webp">
+<meta property="og:image" content="https://motos.honda.com.ar/assets/uploads/models_versions/6aa475d7e72db.webp">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#cc0000">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
@@ -36,346 +36,368 @@
 
 <section class="hero">
   <div class="wrap hero-grid">
-    <div>
-      <p class="eyebrow">Catálogo oficial Honda · GOI S.A.</p>
+    <div class="hero-text">
+      <p class="eyebrow">Catálogo oficial Honda</p>
       <h1>Encontrá tu próxima moto</h1>
       <p class="hero-copy">Mirá fotos, precio sugerido y ficha técnica de cada modelo, y pedí tu cotización sin moverte de casa.</p>
-      <div class="hero-actions"><a class="btn btn-red" href="#modelos">Ver las motos</a><a class="btn btn-ghost" href="#cotizar">Pedir cotización</a></div>
-      <dl class="stats">
-        <div><dt>Modelos</dt><dd>27</dd></div>
-        <div><dt>Tipos</dt><dd>10</dd></div>
-        <div><dt>Con precio</dt><dd>14</dd></div>
-      </dl>
+      <div class="hero-actions"><a class="btn btn-red" href="#modelos">Ver las motos</a><a class="btn btn-soft" href="#cotizar">Pedir cotización</a></div>
+      <ul class="hero-facts"><li><b>27</b> modelos</li><li><b>6</b> tipos de uso</li><li><b>14</b> con precio</li></ul>
     </div>
-    <ul class="showcase" aria-hidden="true">
-      <li><img src="https://motos.honda.com.ar/assets/uploads/models/69822871c999f.webp" alt="" width="144" height="96" referrerpolicy="no-referrer"><span><b>NX190</b><small>Adventure</small></span></li>
-      <li><img src="https://motos.honda.com.ar/assets/uploads/models/68910dd1e759f.webp" alt="" width="144" height="96" referrerpolicy="no-referrer"><span><b>CB125F TWISTER</b><small>Sport</small></span></li>
-      <li><img src="https://motos.honda.com.ar/assets/uploads/models/68910bf7ecab8.webp" alt="" width="144" height="96" referrerpolicy="no-referrer"><span><b>ELITE 125</b><small>Scooter</small></span></li>
-    </ul>
+    <div class="hero-photo" aria-hidden="true">
+      <img src="https://motos.honda.com.ar/assets/uploads/models_versions/6aa475d7e72db.webp" alt="" width="1200" height="800" referrerpolicy="no-referrer" fetchpriority="high">
+      <span class="hero-tag"><b>CB750 HORNET</b><small>Sport</small></span>
+    </div>
   </div>
 </section>
 
 <section id="modelos" class="wrap models">
+  <div class="section-head">
+    <h2 class="display">Elegí tu moto</h2>
+    <p>¿Para qué la querés? Tocá una opción y mirá solo esas motos.</p>
+  </div>
   <div class="filters" role="search">
-    <div class="chips" role="group" aria-label="Tipo de moto">
-      <button type="button" class="chip" data-segment="" aria-pressed="true">Todas</button>
-      <button type="button" class="chip" data-segment="Cub" aria-pressed="false">Cub</button>
-      <button type="button" class="chip" data-segment="Fun" aria-pressed="false">Fun</button>
-      <button type="button" class="chip" data-segment="Business" aria-pressed="false">Business</button>
-      <button type="button" class="chip" data-segment="Scooter" aria-pressed="false">Scooter</button>
-      <button type="button" class="chip" data-segment="On-Off" aria-pressed="false">On-Off</button>
-      <button type="button" class="chip" data-segment="Off-Road" aria-pressed="false">Off-Road</button>
-      <button type="button" class="chip" data-segment="Custom" aria-pressed="false">Custom</button>
-      <button type="button" class="chip" data-segment="Sport" aria-pressed="false">Sport</button>
-      <button type="button" class="chip" data-segment="Adventure" aria-pressed="false">Adventure</button>
-      <button type="button" class="chip" data-segment="ATV" aria-pressed="false">ATV</button>
+    <div class="chips" role="group" aria-label="Para qué la querés">
+      <button type="button" class="chip" data-uso="" aria-pressed="true">Todas</button>
+      <button type="button" class="chip" data-uso="Ciudad" aria-pressed="false">Ciudad</button>
+      <button type="button" class="chip" data-uso="Trabajo" aria-pressed="false">Trabajo</button>
+      <button type="button" class="chip" data-uso="Ruta y aventura" aria-pressed="false">Ruta y aventura</button>
+      <button type="button" class="chip" data-uso="Deportivas" aria-pressed="false">Deportivas</button>
+      <button type="button" class="chip" data-uso="Off-road" aria-pressed="false">Off-road</button>
+      <button type="button" class="chip" data-uso="Cuatriciclos" aria-pressed="false">Cuatriciclos</button>
     </div>
     <div class="tools">
-      <input type="search" id="q" placeholder="Buscar modelo" aria-label="Buscar modelo" autocomplete="off">
-      <select id="sort" aria-label="Ordenar"><option value="order">Destacados</option><option value="asc">Menor precio</option><option value="desc">Mayor precio</option></select>
+      <input type="search" id="q" placeholder="Buscar por nombre" aria-label="Buscar por nombre" autocomplete="off">
+      <select id="sort" aria-label="Ordenar"><option value="order">Destacadas</option><option value="asc">Menor precio</option><option value="desc">Mayor precio</option></select>
     </div>
   </div>
-  <p id="count" class="count" aria-live="polite">27 modelos</p>
+  <p id="count" class="count" aria-live="polite">27 motos</p>
   <ul id="grid" class="grid">
-<li class="card-item" data-name="wave 110s" data-segment="Cub" data-price="3529700" data-valid-to="2026-11-30" data-order="0">
+<li class="card-item" data-name="wave 110s" data-uso="Ciudad" data-segment="Cub" data-price="3529700" data-valid-to="2026-11-30" data-order="0">
   <a class="card" href="/modelos/wave-110s/">
-    <div class="card-img"><span class="badge">Cub</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910b6be64ed.webp" alt="WAVE 110S" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Cub</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/68911efed7ef9.webp" alt="WAVE 110S" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>WAVE 110S</h3>
       <p class="tagline">Una decisión inteligente</p>
+      
       <div class="card-price"><div class="price-box" data-price="3529700" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Desde</span><b class="price">$ 3.529.700</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="biz 110" data-segment="Cub" data-price="4006500" data-valid-to="2026-11-30" data-order="1">
+<li class="card-item" data-name="biz 110" data-uso="Ciudad" data-segment="Cub" data-price="4006500" data-valid-to="2026-11-30" data-order="1">
   <a class="card" href="/modelos/biz-110/">
-    <div class="card-img"><span class="badge">Cub</span><img src="https://motos.honda.com.ar/assets/uploads/models/6aa48bd899583.webp" alt="BIZ 110" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Cub</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6aa0845779d8e.webp" alt="BIZ 110" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>BIZ 110</h3>
       <p class="tagline">Todo el mundo pide Biz</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>109 cc</dd></div><div><dt>Peso</dt><dd>99 kg</dd></div><div><dt>Tanque</dt><dd>5 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="4006500" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 4.006.500</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="navi" data-segment="Fun" data-price="3434700" data-valid-to="2026-11-30" data-order="2">
+<li class="card-item" data-name="navi" data-uso="Ciudad" data-segment="Fun" data-price="3434700" data-valid-to="2026-11-30" data-order="2">
   <a class="card" href="/modelos/navi/">
-    <div class="card-img"><span class="badge">Fun</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910b83e6d60.webp" alt="NAVI" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Fun</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/68911fe545d09.webp" alt="NAVI" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>NAVI</h3>
       <p class="tagline">Le pasa el trap a todas</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>109 cc</dd></div><div><dt>Peso</dt><dd>104 kg</dd></div><div><dt>Tanque</dt><dd>3.5 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="3434700" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 3.434.700</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="glh 150" data-segment="Business" data-price="4737600" data-valid-to="2026-11-30" data-order="3">
+<li class="card-item" data-name="glh 150" data-uso="Trabajo" data-segment="Business" data-price="4737600" data-valid-to="2026-11-30" data-order="3">
   <a class="card" href="/modelos/glh-150/">
-    <div class="card-img"><span class="badge">Business</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910b9e0b8cc.webp" alt="GLH 150" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Business</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6891212f9d7f3.webp" alt="GLH 150" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>GLH 150</h3>
       <p class="tagline">Más gaucha que nunca</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>149 cc</dd></div><div><dt>Peso</dt><dd>129 kg</dd></div><div><dt>Tanque</dt><dd>12.7 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="4737600" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 4.737.600</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="elite 125" data-segment="Scooter" data-price="5294700" data-valid-to="2026-11-30" data-order="4">
+<li class="card-item" data-name="elite 125" data-uso="Ciudad" data-segment="Scooter" data-price="5294700" data-valid-to="2026-11-30" data-order="4">
   <a class="card" href="/modelos/elite-125/">
-    <div class="card-img"><span class="badge">Scooter</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910bf7ecab8.webp" alt="ELITE 125" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Scooter</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6891215b2cfe3.webp" alt="ELITE 125" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>ELITE 125</h3>
       <p class="tagline">Se mueve con vos</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>124 cc</dd></div><div><dt>Peso</dt><dd>104 kg</dd></div><div><dt>Tanque</dt><dd>5.3 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="5294700" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 5.294.700</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="pcx 160" data-segment="Scooter" data-price="9437000" data-valid-to="2026-11-30" data-order="5">
+<li class="card-item" data-name="pcx 160" data-uso="Ciudad" data-segment="Scooter" data-price="9437000" data-valid-to="2026-11-30" data-order="5">
   <a class="card" href="/modelos/pcx-160/">
-    <div class="card-img"><span class="badge">Scooter</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910c4225544.webp" alt="PCX 160" width="480" height="320" referrerpolicy="no-referrer" loading="eager"></div>
+    <div class="card-img"><span class="badge">Scooter</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6a2825095e933.webp" alt="PCX 160" width="600" height="400" referrerpolicy="no-referrer" loading="eager"></div>
     <div class="card-body">
       <h3>PCX 160</h3>
       <p class="tagline">Diseñada a tu medida</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>157 cc</dd></div><div><dt>Peso</dt><dd>133 kg</dd></div><div><dt>Tanque</dt><dd>8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="9437000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Desde</span><b class="price">$ 9.437.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="xr150l" data-segment="On-Off" data-price="6051500" data-valid-to="2026-11-30" data-order="6">
+<li class="card-item" data-name="xr150l" data-uso="Ruta y aventura" data-segment="On-Off" data-price="6051500" data-valid-to="2026-11-30" data-order="6">
   <a class="card" href="/modelos/xr150l/">
-    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910cb74a709.webp" alt="XR150L" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/689121b3c4eed.webp" alt="XR150L" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>XR150L</h3>
       <p class="tagline">La ciudad tiene su lado off</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>149 cc</dd></div><div><dt>Peso</dt><dd>131 kg</dd></div><div><dt>Tanque</dt><dd>12 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="6051500" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 6.051.500</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="xr190l" data-segment="On-Off" data-price="7033500" data-valid-to="2026-11-30" data-order="7">
+<li class="card-item" data-name="xr190l" data-uso="Ruta y aventura" data-segment="On-Off" data-price="7033500" data-valid-to="2026-11-30" data-order="7">
   <a class="card" href="/modelos/xr190l/">
-    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910cd4ed57d.webp" alt="XR190L" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6891219a8694e.webp" alt="XR190L" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>XR190L</h3>
       <p class="tagline">Dale a tu vida un giro de 190</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>184 cc</dd></div><div><dt>Peso</dt><dd>135 kg</dd></div><div><dt>Tanque</dt><dd>12 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="7033500" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 7.033.500</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="xr300l tornado" data-segment="On-Off" data-price="10954000" data-valid-to="2026-11-30" data-order="8">
+<li class="card-item" data-name="xr300l tornado" data-uso="Ruta y aventura" data-segment="On-Off" data-price="10954000" data-valid-to="2026-11-30" data-order="8">
   <a class="card" href="/modelos/xr300l-tornado/">
-    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910ceb5f0f9.webp" alt="XR300L TORNADO" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">On-Off</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/689120851b869.webp" alt="XR300L TORNADO" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>XR300L TORNADO</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>294 cc</dd></div><div><dt>Peso</dt><dd>153 kg</dd></div><div><dt>Tanque</dt><dd>13.8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="10954000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Desde</span><b class="price">$ 10.954.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf250r" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="9">
+<li class="card-item" data-name="crf250r" data-uso="Off-road" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="9">
   <a class="card" href="/modelos/crf250r/">
-    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models/6a95a97940c65.webp" alt="CRF250R" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6a95a9e9696f7.webp" alt="CRF250R" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF250R</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>249,4 cc</dd></div><div><dt>Peso</dt><dd>107 kg</dd></div><div><dt>Tanque</dt><dd>6.3 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf250rx" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="10">
+<li class="card-item" data-name="crf250rx" data-uso="Off-road" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="10">
   <a class="card" href="/modelos/crf250rx/">
-    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910d6d35291.webp" alt="CRF250RX" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/689121feedb11.webp" alt="CRF250RX" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF250RX</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>249,4 cc</dd></div><div><dt>Peso</dt><dd>110 kg</dd></div><div><dt>Tanque</dt><dd>8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf450r" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="11">
+<li class="card-item" data-name="crf450r" data-uso="Off-road" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="11">
   <a class="card" href="/modelos/crf450r/">
-    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models/6a9ada078d8e9.webp" alt="CRF450R" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6a997651d1be7.webp" alt="CRF450R" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF450R</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>449,7 cc</dd></div><div><dt>Peso</dt><dd>113 kg</dd></div><div><dt>Tanque</dt><dd>6.3 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf450rx" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="12">
+<li class="card-item" data-name="crf450rx" data-uso="Off-road" data-segment="Off-Road" data-price="0" data-valid-to="2026-11-30" data-order="12">
   <a class="card" href="/modelos/crf450rx/">
-    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910d3ac25ff.webp" alt="CRF450RX" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Off-Road</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/68912219be4c3.webp" alt="CRF450RX" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF450RX</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>449,7 cc</dd></div><div><dt>Peso</dt><dd>116 kg</dd></div><div><dt>Tanque</dt><dd>8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb350 h'ness" data-segment="Custom" data-price="8190000" data-valid-to="2026-11-30" data-order="13">
+<li class="card-item" data-name="cb350 h'ness" data-uso="Ruta y aventura" data-segment="Custom" data-price="8190000" data-valid-to="2026-11-30" data-order="13">
   <a class="card" href="/modelos/cb350-h-ness/">
-    <div class="card-img"><span class="badge">Custom</span><img src="https://motos.honda.com.ar/assets/uploads/models/697b96f86e8ab.webp" alt="CB350 H'NESS" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Custom</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/697b972752d1d.webp" alt="CB350 H'NESS" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB350 H'NESS</h3>
       <p class="tagline">De moda no pasa lo clásico</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>348,4 cc</dd></div><div><dt>Peso</dt><dd>181 kg</dd></div><div><dt>Tanque</dt><dd>15.0 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="8190000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 8.190.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb125f twister" data-segment="Sport" data-price="4135300" data-valid-to="2026-11-30" data-order="14">
+<li class="card-item" data-name="cb125f twister" data-uso="Deportivas" data-segment="Sport" data-price="4135300" data-valid-to="2026-11-30" data-order="14">
   <a class="card" href="/modelos/cb125f-twister/">
-    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910dd1e759f.webp" alt="CB125F TWISTER" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/689122b4e49fd.webp" alt="CB125F TWISTER" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB125F TWISTER</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>124,80 cc</dd></div><div><dt>Peso</dt><dd>117 kg</dd></div><div><dt>Tanque</dt><dd>10.1 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="4135300" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Desde</span><b class="price">$ 4.135.300</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb190r 2.0" data-segment="Sport" data-price="5867000" data-valid-to="2026-11-30" data-order="15">
+<li class="card-item" data-name="cb190r 2.0" data-uso="Deportivas" data-segment="Sport" data-price="5867000" data-valid-to="2026-11-30" data-order="15">
   <a class="card" href="/modelos/cb190r-2-0/">
-    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models/6984b59b8553f.webp" alt="CB190R 2.0" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6984e758a4bd1.webp" alt="CB190R 2.0" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB190R 2.0</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>184 cc</dd></div><div><dt>Peso</dt><dd>141 kg</dd></div><div><dt>Tanque</dt><dd>12 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="5867000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 5.867.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb300f twister" data-segment="Sport" data-price="7850000" data-valid-to="2026-11-30" data-order="16">
+<li class="card-item" data-name="cb300f twister" data-uso="Deportivas" data-segment="Sport" data-price="7850000" data-valid-to="2026-11-30" data-order="16">
   <a class="card" href="/modelos/cb300f-twister/">
-    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910de47d0f3.webp" alt="CB300F TWISTER" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/689122a35cb01.webp" alt="CB300F TWISTER" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB300F TWISTER</h3>
       <p class="tagline">Atrapamiradas</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>294 cc</dd></div><div><dt>Peso</dt><dd>151 kg</dd></div><div><dt>Tanque</dt><dd>14.1 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="7850000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 7.850.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb500 hornet" data-segment="Sport" data-price="0" data-valid-to="2026-11-30" data-order="17">
+<li class="card-item" data-name="cb500 hornet" data-uso="Deportivas" data-segment="Sport" data-price="0" data-valid-to="2026-11-30" data-order="17">
   <a class="card" href="/modelos/cb500-hornet/">
-    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models/6aa4630a4b52f.webp" alt="CB500 HORNET" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6aa46206499d0.webp" alt="CB500 HORNET" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB500 HORNET</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>471 cc</dd></div><div><dt>Peso</dt><dd>188–192 kg</dd></div><div><dt>Tanque</dt><dd>17.1 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="cb750 hornet" data-segment="Sport" data-price="0" data-valid-to="2026-11-30" data-order="18">
+<li class="card-item" data-name="cb750 hornet" data-uso="Deportivas" data-segment="Sport" data-price="0" data-valid-to="2026-11-30" data-order="18">
   <a class="card" href="/modelos/cb750-hornet/">
-    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models/6aa4641a44b6f.webp" alt="CB750 HORNET" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Sport</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6aa475d7e72db.webp" alt="CB750 HORNET" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CB750 HORNET</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>755 cc</dd></div><div><dt>Peso</dt><dd>190–196 kg</dd></div><div><dt>Tanque</dt><dd>15.2 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="nx190" data-segment="Adventure" data-price="6907000" data-valid-to="2026-11-30" data-order="19">
+<li class="card-item" data-name="nx190" data-uso="Ruta y aventura" data-segment="Adventure" data-price="6907000" data-valid-to="2026-11-30" data-order="19">
   <a class="card" href="/modelos/nx190/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/69822871c999f.webp" alt="NX190" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6984ead1ea55f.webp" alt="NX190" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>NX190</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>184 cc</dd></div><div><dt>Peso</dt><dd>147 kg</dd></div><div><dt>Tanque</dt><dd>12 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="6907000" data-valid-to="2026-11-30"><div class="price-on"><span class="price-label">Precio sugerido</span><b class="price">$ 6.907.000</b></div><p class="price-off" hidden>Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="nx500" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="20">
+<li class="card-item" data-name="nx500" data-uso="Ruta y aventura" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="20">
   <a class="card" href="/modelos/nx500/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/6aa4804f76b03.webp" alt="NX500" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6aa48610adfc3.webp" alt="NX500" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>NX500</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>471 cc</dd></div><div><dt>Peso</dt><dd>196–200 kg</dd></div><div><dt>Tanque</dt><dd>17.7 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="nc750x" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="21">
+<li class="card-item" data-name="nc750x" data-uso="Ruta y aventura" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="21">
   <a class="card" href="/modelos/nc750x/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910e82d4f7c.webp" alt="NC750X" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6891206caa74e.webp" alt="NC750X" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>NC750X</h3>
       <p class="tagline">Tu nuevo horizonte</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>745 cc</dd></div><div><dt>Peso</dt><dd>215 kg</dd></div><div><dt>Tanque</dt><dd>14.1 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="xl750 transalp" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="22">
+<li class="card-item" data-name="xl750 transalp" data-uso="Ruta y aventura" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="22">
   <a class="card" href="/modelos/xl750-transalp/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/69eb88781d2aa.webp" alt="XL750 TRANSALP" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/69eb890bb2012.webp" alt="XL750 TRANSALP" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>XL750 TRANSALP</h3>
       <p class="tagline">Donde cada camino se convierte en historia</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>755 cc</dd></div><div><dt>Peso</dt><dd>210–216 kg</dd></div><div><dt>Tanque</dt><dd>16.9 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf1100l africa twin" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="23">
+<li class="card-item" data-name="crf1100l africa twin" data-uso="Ruta y aventura" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="23">
   <a class="card" href="/modelos/crf1100l-africa-twin/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/6a28280a73dc2.webp" alt="CRF1100L AFRICA TWIN" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6a282ce79dd4b.webp" alt="CRF1100L AFRICA TWIN" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF1100L AFRICA TWIN</h3>
       <p class="tagline">Conquistá tu propia aventura</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>1.084 cc</dd></div><div><dt>Peso</dt><dd>231–242 kg</dd></div><div><dt>Tanque</dt><dd>18.8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="crf1100l africa twin adventure sports" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="24">
+<li class="card-item" data-name="crf1100l africa twin adventure sports" data-uso="Ruta y aventura" data-segment="Adventure" data-price="0" data-valid-to="2026-11-30" data-order="24">
   <a class="card" href="/modelos/crf1100l-africa-twin-as/">
-    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models/6a27181da3aff.webp" alt="CRF1100L AFRICA TWIN ADVENTURE SPORTS" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">Adventure</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6a271ca04098b.webp" alt="CRF1100L AFRICA TWIN ADVENTURE SPORTS" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>CRF1100L AFRICA TWIN ADVENTURE SPORTS</h3>
       <p class="tagline">Conquistá tu propia aventura</p>
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>1.084 cc</dd></div><div><dt>Peso</dt><dd>243–253 kg</dd></div><div><dt>Tanque</dt><dd>24.8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="trx250" data-segment="ATV" data-price="0" data-valid-to="2026-11-30" data-order="25">
+<li class="card-item" data-name="trx250" data-uso="Cuatriciclos" data-segment="ATV" data-price="0" data-valid-to="2026-11-30" data-order="25">
   <a class="card" href="/modelos/trx250/">
-    <div class="card-img"><span class="badge">ATV</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910ea73d6ed.webp" alt="TRX250" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">ATV</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6891233101d73.webp" alt="TRX250" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>TRX250</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>229 cc</dd></div><div><dt>Peso</dt><dd>198 kg</dd></div><div><dt>Tanque</dt><dd>9.1 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
-<li class="card-item" data-name="trx420" data-segment="ATV" data-price="0" data-valid-to="2026-11-30" data-order="26">
+<li class="card-item" data-name="trx420" data-uso="Cuatriciclos" data-segment="ATV" data-price="0" data-valid-to="2026-11-30" data-order="26">
   <a class="card" href="/modelos/trx420/">
-    <div class="card-img"><span class="badge">ATV</span><img src="https://motos.honda.com.ar/assets/uploads/models/68910eb40b713.webp" alt="TRX420" width="480" height="320" referrerpolicy="no-referrer" loading="lazy"></div>
+    <div class="card-img"><span class="badge">ATV</span><img src="https://motos.honda.com.ar/assets/uploads/models_versions/6984ee0431b63.webp" alt="TRX420" width="600" height="400" referrerpolicy="no-referrer" loading="lazy"></div>
     <div class="card-body">
       <h3>TRX420</h3>
       
+      <dl class="keyspecs"><div><dt>Cilindrada</dt><dd>420 cc</dd></div><div><dt>Peso</dt><dd>263–279 kg</dd></div><div><dt>Tanque</dt><dd>14.8 L</dd></div></dl>
       <div class="card-price"><div class="price-box" data-price="0" data-valid-to="2026-11-30"><div class="price-on" hidden></div><p class="price-off">Consultá el precio vigente</p></div></div>
-      <p class="more">Ver ficha técnica →</p>
+      <p class="more">Ver esta moto <span aria-hidden="true">→</span></p>
     </div>
   </a>
 </li>
   </ul>
-  <div id="empty" class="empty" hidden><h3>No encontramos ese modelo</h3><button type="button" id="reset" class="link-btn">Ver todas las motos</button></div>
+  <div id="empty" class="empty" hidden><h3>No encontramos esa moto</h3><p>Probá con otro nombre o mirá todas las opciones.</p><button type="button" id="reset" class="btn btn-soft">Ver todas las motos</button></div>
 </section>
 
 <section class="trust"><div class="wrap trust-grid">
@@ -393,11 +415,11 @@
   </div>
   <form id="quote" class="form" novalidate>
     <label>Tu nombre<input name="name" autocomplete="name" maxlength="80" required></label>
-    <label>Modelo que te interesa
-      <select name="model"><option value="">Elegí una moto</option><option>WAVE 110S</option><option>BIZ 110</option><option>NAVI</option><option>GLH 150</option><option>ELITE 125</option><option>PCX 160</option><option>XR150L</option><option>XR190L</option><option>XR300L TORNADO</option><option>CRF250R</option><option>CRF250RX</option><option>CRF450R</option><option>CRF450RX</option><option>CB350 H'NESS</option><option>CB125F TWISTER</option><option>CB190R 2.0</option><option>CB300F TWISTER</option><option>CB500 HORNET</option><option>CB750 HORNET</option><option>NX190</option><option>NX500</option><option>NC750X</option><option>XL750 TRANSALP</option><option>CRF1100L AFRICA TWIN</option><option>CRF1100L AFRICA TWIN ADVENTURE SPORTS</option><option>TRX250</option><option>TRX420</option></select>
+    <label>¿Qué moto te interesa?
+      <select name="model"><option value="">Todavía no sé, quiero que me asesoren</option><option>WAVE 110S</option><option>BIZ 110</option><option>NAVI</option><option>GLH 150</option><option>ELITE 125</option><option>PCX 160</option><option>XR150L</option><option>XR190L</option><option>XR300L TORNADO</option><option>CRF250R</option><option>CRF250RX</option><option>CRF450R</option><option>CRF450RX</option><option>CB350 H'NESS</option><option>CB125F TWISTER</option><option>CB190R 2.0</option><option>CB300F TWISTER</option><option>CB500 HORNET</option><option>CB750 HORNET</option><option>NX190</option><option>NX500</option><option>NC750X</option><option>XL750 TRANSALP</option><option>CRF1100L AFRICA TWIN</option><option>CRF1100L AFRICA TWIN ADVENTURE SPORTS</option><option>TRX250</option><option>TRX420</option></select>
     </label>
-    <label>¿Algo más que quieras contarnos? <span class="opt">(opcional)</span><textarea name="message" rows="3" maxlength="400"></textarea></label>
-    <button class="btn btn-red btn-block" type="submit">Enviar consulta por WhatsApp</button>
+    <label>¿Querés contarnos algo más? <span class="opt">(opcional)</span><textarea name="message" rows="3" maxlength="400"></textarea></label>
+    <button class="btn btn-red btn-block" type="submit">Escribinos por WhatsApp</button>
     <p class="hint">Se abre WhatsApp con tu mensaje listo para enviar.</p>
   </form>
 </section>
@@ -417,7 +439,7 @@
   </div>
   <div class="foot-note"><p class="wrap">© 2026 GOI S.A. · Los precios son valores sugeridos al público por Honda Motor de Argentina, no incluyen flete, seguro ni patentamiento, y el precio final y la disponibilidad los confirma GOI. Fotos y especificaciones de Honda; pueden cambiar sin previo aviso.</p></div>
 </footer>
-<a class="wa-float" href="https://wa.me/543754414727?text=Hola%20GOI%2C%20vi%20el%20cat%C3%A1logo%20de%20motos%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noopener" aria-label="Consultar por WhatsApp">
+<a class="wa-float" href="https://wa.me/543754414727?text=Hola%20GOI%2C%20vi%20el%20cat%C3%A1logo%20de%20motos%20y%20quiero%20hacer%20una%20consulta." target="_blank" rel="noopener" aria-label="Escribinos por WhatsApp">
   <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 00-8.6 15.1L2 22l5-1.3A10 10 0 1012 2zm0 18.2c-1.5 0-3-.4-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1112 20.2zm4.5-6.1c-.2-.1-1.5-.8-1.7-.8s-.4-.1-.6.1-.6.8-.8 1-.3.2-.6.1a6.700 6.700 0 01-3.300-2.900c-.2-.4.2-.4.7-1.300.1-.1 0-.3 0-.4l-.8-1.900c-.2-.5-.4-.4-.6-.4h-.5a1 1 0 00-.7.3 3 3 0 00-.9 2.200 5.200 5.200 0 001.100 2.800 11.900 11.900 0 004.600 4c1.700.7 2.400.8 3.200.7a2.700 2.700 0 001.800-1.300 2.200 2.200 0 00.2-1.300c-.1-.1-.3-.2-.6-.3z"/></svg>
 </a>
 <script>window.GOI = {"whatsapp":"543754414727"};</script>
