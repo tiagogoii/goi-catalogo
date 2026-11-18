@@ -1,0 +1,11 @@
+name = "goi-catalogo"
+pages_build_output_dir = "public"
+compatibility_date = "2026-11-01"
+
+# Base de datos del catálogo (motos, textos y fotos). Al crearla en Cloudflare
+# (npx wrangler d1 create goi-catalogo) hay que pegar acá su database_id real.
+[[d1_databases]]
+binding = "DB"
+database_name = "goi-catalogo"
+database_id = "00000000-0000-0000-0000-000000000000"
+migrations_dir = "migrations"
