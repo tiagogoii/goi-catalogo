@@ -7,5 +7,5 @@ compatibility_date = "2026-11-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "goi-catalogo"
-database_id = "00000000-0000-0000-0000-000000000000"
+database_id = "e370c7b1-d2d3-46ba-b70e-b083fb7e7962"
 migrations_dir = "migrations"
